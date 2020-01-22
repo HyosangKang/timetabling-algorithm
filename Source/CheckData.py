@@ -10,21 +10,17 @@ def GenerateTimeSlot(crs, availSlots): # The function generates all possible tim
 
     if crs['Fixed']: # If the course is hard fixed, only one possible time slot is returned
         possibleTimes = [availSlots]
-    elif crs['SoftFixed']:
+    else:
         for sPair in list(itertools.combinations(crs['AvailableSlots'], len(crs['Credit']))):
+            if len(crs['Credit']) > 1:
+                if int(sPair[0] / 27) == int(sPair[1] / 27):
+                    if not crs['SoftFixed']:
+                        if (sPair[0] % 27) != (sPair[1] % 27): continue
+                    else:
+                        continue
             timeSlot = []
             for i, c in enumerate(crs['Credit']):
                 timeSlot += list(range(sPair[i], sPair[i] + c))
-            timeSlot = list(set(timeSlot))
-            timeSlot.sort()
-            if len([s for s in timeSlot if s in availSlots]) == hour:
-                possibleTimes.append(timeSlot)
-    else:
-        for slot in availSlots:
-            timeSlot = []
-            for i, c in enumerate(crs['Credit']):
-                s = (slot + (3 * i * 27)) % (5 * 27)
-                timeSlot += list(range(s, s + c))
             timeSlot = list(set(timeSlot))
             timeSlot.sort()
             if len([s for s in timeSlot if s in availSlots]) == hour:
@@ -138,7 +134,7 @@ def RoomConflict(timeSlot, loc, room, crsDic, J): # The function checks the clas
 
 
 def RemoveMaxConflictPair(numb, threshold, numConfStd, confPairStd):
-    if threshold < 2:
+    if threshold < 10:
         print(" Threshold too low...Continue")
         return
     count = 0
