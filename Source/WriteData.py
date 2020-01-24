@@ -3,15 +3,15 @@ from time import time, sleep, strftime
 
 def find_time(slot):
     if int(slot / 27) < 1:
-        tmp = "월요일"
+        tmp = "Mon-"
     elif int(slot / 27) < 2:
-        tmp = "화요일"
+        tmp = "Tue-"
     elif int(slot / 27) < 3:
-        tmp = "수요일"
+        tmp = "Wed-"
     elif int(slot / 27) < 4:
-        tmp = "목요일"
+        tmp = "Thr-"
     else:
-        tmp = "금요일"
+        tmp = "Fri-"
     tmp += str(9 + int((slot % 27) / 2)) + ":"
     if (slot % 27) % 2:
         tmp += "30"
@@ -22,7 +22,7 @@ def find_time(slot):
 
 def ToCSV(WRITE_FILE_NAME, TTdic, yrsem):
     ClsRm = []
-    with open("Data/" + yrsem + "/ClassRoom.csv", 'r') as classroom_file:
+    with open("../Data/" + yrsem + "/ClassRoom.csv", 'r') as classroom_file:
         lines = classroom_file.readlines()
         for line in lines[1:]:
             v = line.split(",")
@@ -69,7 +69,7 @@ def ToCSV(WRITE_FILE_NAME, TTdic, yrsem):
                         tmp += ","
                     else:
                         tmp += "," + TTdic[currList[i1]]['CourseName'] + "(" + TTdic[currList[i1]]['ClassCode'] + ") " \
-                               + str(TTdic[currList[i1]]['Section']) + "분반 " + ClsRm[TTdic[currList[i1]]['Classroom']]
+                               + "Sect " + str(TTdic[currList[i1]]['Section']) + ClsRm[TTdic[currList[i1]]['Classroom']]
                         for name in TTdic[currList[i1]]['Instructors']:
                             if name[0] not in "0123456789":
                                 tmp += " " + name
@@ -83,7 +83,7 @@ def Slot2Str(slotlst):
         slot = slotlst[i]
         if slot+1 not in slotlst:
             end = find_time(slot+1)
-            end = end.split("요일")
+            end = end.split("-")
             lst += find_time(st) + "~" + end[1] + " "
             if i < len(slotlst) - 1:
                 st = slotlst[i+1]
@@ -124,7 +124,7 @@ def FindDayTime(strlst):
 
 def ByCourse(FILE_NAME_COURSE, TTdic, yrsem):
     ClsRm = []
-    with open("Data/" + yrsem + "/ClassRoom.csv", 'r') as classroom_file:
+    with open("../Data/" + yrsem + "/ClassRoom.csv", 'r') as classroom_file:
         lines = classroom_file.readlines()
         for line in lines[1:]:
             v = line.split(",")
@@ -186,10 +186,10 @@ def ByInstructors(FILE_NAME_INST, TTdic):
                     File.write("\t" + crs['CourseName'] + str(crs['Section']) + "\n")
                     File.write("\t\t" + " " + Slot2Str(crs['Timetable']) + "\n")
 
-# yrsem = "20Spring"
-# FILE_NAME = "data_20Spring_20200122_1638"
-# with open("Data/20Spring/Results/" + FILE_NAME + ".json", 'r') as file:
-#     TT = json.load(file)
-#     ToCSV("Data/" + yrsem + "/Results/" + FILE_NAME + "_timetable.csv", TT, yrsem)
-#     ByCourse("Data/" + yrsem + "/Results/" + FILE_NAME + "_course.csv", TT, yrsem)
-#     ByInstructors("Data/" + yrsem + "/Results/" + FILE_NAME + "_instructors.txt", TT)
+yrsem = "20Spring"
+FILE_NAME = "data_20Spring_20200124_1304"
+with open("../Data/20Spring/Results/" + FILE_NAME + ".json", 'r') as file:
+    TT = json.load(file)
+    ToCSV("../Data/" + yrsem + "/Results/" + FILE_NAME + "_timetable.csv", TT, yrsem)
+    # ByCourse("../Data/" + yrsem + "/Results/" + FILE_NAME + "_course.csv", TT, yrsem)
+    # ByInstructors("../Data/" + yrsem + "/Results/" + FILE_NAME + "_instructors.txt", TT)

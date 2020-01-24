@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d35425dc-72dc-4d3a-ab7e-fa3e043f7da3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data/20Spring/20SpringCourseList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/20Spring/20SpringCourseList.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/20Spring/ClassRoom.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/20Spring/ClassRoom.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/20SpringTimetableTemp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/20Spring/Results/20SpringTimetableTemp.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/20SpringTimetableTemp.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/20Spring/Results/20SpringTimetableTemp.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/CrsData.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/StdData.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Addon.py" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Addon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ReadData.py" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ReadData.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/WriteData.py" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WriteData.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,18 +45,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Source/WriteData.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="194" column="87" selection-start-line="194" selection-start-column="87" selection-end-line="194" selection-end-column="87" />
+            <state relative-caret-position="1007">
+              <caret line="71" column="38" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <element signature="e#1549#1938#0" />
-                <element signature="e#1985#3954#0" />
-                <element signature="e#5975#6310#0" />
                 <element signature="e#6341#7070#0" />
-                <element signature="e#7347#8630#0" />
                 <element signature="e#8206#8898#0" />
                 <element signature="e#8946#9551#0" />
               </folding>
@@ -71,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1140">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="228">
+              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
               <folding>
                 <element signature="e#0#64#0" expanded="true" />
               </folding>
@@ -136,12 +125,12 @@
         <option value="$PROJECT_DIR$/Source/Assign.py" />
         <option value="$PROJECT_DIR$/Source/CheckData.py" />
         <option value="$PROJECT_DIR$/Data/20Spring/ClassRoom.csv" />
-        <option value="$PROJECT_DIR$/Source/WriteData.py" />
         <option value="$PROJECT_DIR$/Data/20Spring/Results/wr.py" />
         <option value="$PROJECT_DIR$/Data/20Spring/wr.py" />
         <option value="$PROJECT_DIR$/Source/ReadData.py" />
         <option value="$PROJECT_DIR$/Source/Addon.py" />
         <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/Source/WriteData.py" />
       </list>
     </option>
   </component>
@@ -209,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.WriteData">
     <configuration name="HSmain" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="timetabling-algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,8 +220,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="WriteData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="timetabling-algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Source/WriteData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.WriteData" />
         <item itemvalue="Python.HSmain" />
       </list>
     </recent_temporary>
@@ -313,19 +324,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Source/Assign.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#753#864#0" />
-            <element signature="e#900#1352#0" />
-            <element signature="e#1377#1590#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data/20Spring/ClassRoom.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -363,23 +361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Source/WriteData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="194" column="87" selection-start-line="194" selection-start-column="87" selection-end-line="194" selection-end-column="87" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#1549#1938#0" />
-            <element signature="e#1985#3954#0" />
-            <element signature="e#5975#6310#0" />
-            <element signature="e#6341#7070#0" />
-            <element signature="e#7347#8630#0" />
-            <element signature="e#8206#8898#0" />
-            <element signature="e#8946#9551#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Source/ReadData.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -401,10 +382,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1140">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="228">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
           <folding>
             <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/Assign.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#753#864#0" />
+            <element signature="e#900#1352#0" />
+            <element signature="e#1377#1590#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/WriteData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="71" column="38" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#6341#7070#0" />
+            <element signature="e#8206#8898#0" />
+            <element signature="e#8946#9551#0" />
           </folding>
         </state>
       </provider>
