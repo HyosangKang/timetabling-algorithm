@@ -40,13 +40,13 @@ def SeperateClass(Loc, J, CrsInfo, TimeSlot, lst): # Separate two classes in dif
 
 
 def SpecialRequestSuccess(Loc, J, CrsInfo, TimeSlot):   # Process special requests (merge or separate)
-    mList = [[16, 17, 18]]
-    for lst in mList:
-        if J[Loc] in lst:
-            return MergeClass(Loc, J, CrsInfo, TimeSlot, lst)
-
-    sList = [[18, 31]]
-    for lst in sList:
-        if J[Loc] in lst:
-            return SeperateClass(Loc, J, CrsInfo, TimeSlot, lst)
+    # mList = [[16, 17, 18]]
+    # for lst in mList:
+    #     if J[Loc] in lst:
+    #         return MergeClass(Loc, J, CrsInfo, TimeSlot, lst)
+    #
+    # sList = [[18, 31]]
+    # for lst in sList:
+    #     if J[Loc] in lst:
+    #         return SeperateClass(Loc, J, CrsInfo, TimeSlot, lst)
     return True

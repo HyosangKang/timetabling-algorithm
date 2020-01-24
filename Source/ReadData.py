@@ -5,18 +5,18 @@ def ConvertReq(slotstr):
     slotlist = []
     for val in slotstr:
         if "~" not in val:
-            if "월" in val:
+            if "Mon" in val:
                 day = 0
-            elif "화" in val:
+            elif "Tue" in val:
                 day = 1
-            elif "수" in val:
+            elif "Wed" in val:
                 day = 2
-            elif "목" in val:
+            elif "Thr" in val:
                 day = 3
             else:
                 day = 4
             slotlist += [27*day + i for i in range(27)]
-        elif "요일" not in val:
+        elif "-" not in val:
             vals = val.split("~")
             tmpl = []
             for v in vals:
@@ -28,17 +28,17 @@ def ConvertReq(slotstr):
             for d in range(5):
                 slotlist += [27*d + i for i in range(tmpl[0], tmpl[1])]
         else:
-            if "월" in val:
+            if "Mon" in val:
                 day = 0
-            elif "화" in val:
+            elif "Tue" in val:
                 day = 1
-            elif "수" in val:
+            elif "Wed" in val:
                 day = 2
-            elif "목" in val:
+            elif "Thr" in val:
                 day = 3
             else:
                 day = 4
-            valss = val.split("요일")
+            valss = val.split("-")
             vals = valss[1].split("~")
             tmpl = []
             for v in vals:

@@ -4,14 +4,12 @@ import sys
 from random import shuffle
 from time import time, sleep, strftime
 from termcolor import colored
-import numpy as np
 
-NUM_MIN = 1                 # 0 if no time straints
+NUM_MIN = True              # 0 if no time straints
+SHORT_PRINT = True
 SHORT_MIN = 5
 NUM_DEL = 10                # number of deleting pair for each step
 THRESHOLD = 100             # Threshold for removal
-NUM_MAX_DEN = 260           # Number of maximum density
-SHORT_PRINT = True
 
 unavails = []
 for day in range(5):
@@ -19,7 +17,6 @@ for day in range(5):
     unavails += list(range(day * 27 + 6, day * 27 + 8))  # Lunch time
     unavails += list(range(day * 27 + 18, day * 27 + 20))  # Dinner time
 unavails += list(range(4 * 27 + 16, 5 * 27))  # No Friday afternoon
-unavails += list(range(3 * 27 + 7, 3 * 27 + 10))  # 멘토리얼
 
 """
 STAGE 1: DATA PREPARING
@@ -30,13 +27,7 @@ stdDic = ReadData.StudentInfo(crsDic, yrsem)
 stdDic, crsDic = Assign.OptimizeEnroll(stdDic, crsDic, yrsem)
 
 """
-STAGE 2: WRITING CONFLICTING PAIRS
-
-Find conflicting pairs by instructors and students.
-A conflicting pair is a pair of courses which must not conflict in time because there are
-instructor(s)(or student(s)) teaching (or taking) both courses.
-Conflicting pairs by instructors should not be ignored.
-Since conflicting pairs by students are based on survey result, some pairs can be ignored (and it is necessary to ignore quite a few if there are large survey results.)
+STAGE 2: OPTIMIZATION
 """
 
 CheckData.InitTT(crsDic)
@@ -45,14 +36,8 @@ confPairStd  = CheckData.StdPair(stdDic, crsDic)
 confPair     = CheckData.RemoveDuplicates(confPairInst, confPairStd)
 print("Final conflicting pairs...(" + str(len(confPairInst)) + "," + str(len(confPairStd)) + ")")
 
-
 """
-STAGE 3: WRITING TIMETABLE
-
-Do an iteration to find the suitable timetable for the conflicting pair.
-We list the course as follows: first, put the courses with fixed time slots.
-Next, put courses with soft or no fixed time slot. 
-For each iteration, the possible timeslots are shuffled. (maybe not)
+STAGE 3: INTEGER PROGRAMMING
 """
 
 J = list(range(len(crsDic)))
@@ -93,7 +78,7 @@ while Loc < len(J):
         print("|%s |I[loc]=%d(%d)" % (progressbar, J[Loc], len(confPair)))
 
     timer = max(SHORT_MIN - remCount, 1)
-    if NUM_MIN != 0 and ellapsed > 60 * timer:
+    if NUM_MIN and ellapsed > 60 * timer:
         print("\nInitializing...", end=" ")
         sleep(1)
         CheckData.RemoveMaxConflictPair(NUM_DEL, THRESHOLD, numConfStd, confPairStd)

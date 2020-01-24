@@ -1,211 +1,211 @@
 No,ClassType,ClassCode,Section,CourseName,Credit,Instructors,ClassSize,Request,Reject,PossibleClassrooms,SurveyCode
-0,공통필수,SE101a,1,응용 미적분학과 미분방정식,3 3 4,안흥주,60,,금요일 수요일16:30~18:00,4 5 11 12,101
-1,공통필수,SE101a,2,응용 미적분학과 미분방정식,5 5,강효상,60,,금요일 수요일16:30~18:00,4 5 11 12,101
-2,공통필수,SE101a,3,응용 미적분학과 미분방정식,3 3 4,안소영,50,,월요일9:00~10:30 수요일9:00~10:30 화요일9:00~10:30 목요일9:00~10:30 수요일16:30~18:00,4 5 11 12,101
-3,공통필수,SE101a,4,응용 미적분학과 미분방정식,3 3 4,한강진,50,,월요일9:00~10:30 수요일16:30~18:00,4 5 11 12,101
-4,공통필수,SE201c,1,선형대수학,3 3 4,이두석,60,,수요일16:30~18:00,4 5 11 12,201
-5,공통필수,SE201c,2,선형대수학,3 3 4,안소영,50,,월요일9:00~10:30 수요일9:00~10:30 화요일9:00~10:30 목요일9:00~10:30 수요일16:30~18:00,4 5 11 12,201
-6,공통필수,SE201c,3,선형대수학,3 3 4,김호일,60,월요일9:00~18:00 수요일9:00~18:00,,4 5 11 12,201
-7,공통필수,SE201d,1,선형대수학 - 심화,3 3 4,한강진,40,,월요일9:00~10:30 수요일16:30~18:00,4 5 11 12,202
-8,공통필수,SE206a,1,확률과 통계 및 실습,4 4,김주한,65,,월요일9:00~10:00 금요일 수요일16:30~18:00,16 18,203
-9,공통필수,SE206a,2,확률과 통계 및 실습,4 4,김주한,65,,월요일9:00~10:00 금요일 수요일16:30~18:00,16 18,203
-10,교선필수,SE321,1,수론 및 추상 대수학(이),3 3,김호일,40,월요일9:00~18:00 수요일9:00~18:00,,0 1 3 4 5 11 12 ,302
-11,교선필수,SE329,1,해석학(이),3 3,안흥주,40,,금요일 수요일16:30~18:00,0 1 3 4 5 11 12 ,330
-12,교선필수,SE420,1,미분기하학(이),3 3,강효상,40,,금요일 수요일16:30~18:00,0 1 3 4 5 11 12 ,401
-13,교선필수,SE424,1,수학특론(이공) - 공학수학의 새로운 접근법,3 3,이정재,50,화요일9:00~18:00 수요일9:00~18:00,,4 5 11 12 16 18,402
-14,교선필수,SE321,1,기계학습개론(이공),3 3,박상현,60,화요일14:30~16:00 목요일14:30~16:00,,46,334
-15,공통필수,SE103,1,고전역학,3 3,조희승,65,,수요일16:30~18:00,4 5 11 12,103
-16,공통필수,SE103,2,고전역학,3 3,조희승,65,,수요일16:30~18:00,4 5 11 12,103
-17,공통필수,SE103b,1,고전역학-기초,3 3,박기성,65,,수요일16:30~18:00,4 5 11 12,102
-18,공통필수,SE103a,1,고전역학-심화,3 3,윤춘섭,65,,수요일16:30~18:00,4 5 11 12,104
-19,공통필수,SE104,1,고전역학 실험,4,박기성,20,,화요일12:00~14:00 화요일16:30~18:00 수요일16:30~18:00,19 20,105
-20,공통필수,SE104,2,고전역학 실험,4,조희승,20,,수요일16:30~18:00,19 20,105
-21,공통필수,SE104,3,고전역학 실험,4,조희승,20,,수요일16:30~18:00,19 20,105
-22,공통필수,SE104,4,고전역학 실험,4,미정1,20,화요일9:00~18:00,,19 20,105
-23,공통필수,SE104,5,고전역학 실험,4,미정1,20,화요일9:00~18:00,,19 20,105
-24,공통필수,SE104,6,고전역학 실험,4,미정1,20,목요일9:00~18:00,,19 20,105
-25,공통필수,SE104,7,고전역학 실험,4,미정1,20,목요일9:00~18:00,,19 20,105
-26,교선필수,SE235a,1,전자회로와 계측법 (이론) (이공),4,이기준,120,,수요일16:30~18:00,14,204
-27,교선필수,SE235b,1,전자회로와 계측법 (실험) (이공),4,미정2,24,,,65,205
-28,교선필수,SE235b,2,전자회로와 계측법 (실험) (이공),4,미정2,24,,,65,205
-29,교선필수,SE235b,3,전자회로와 계측법 (실험) (이공),4,미정2,24,,,65,205
-30,교선필수,SE235b,4,전자회로와 계측법 (실험) (이공),4,미정2,24,,,65,205
-31,교선필수,SE236,1,해석역학 (이공),3 3,윤춘섭,60,,수요일16:30~18:00,4 5 11 12 16 18,206
-32,교선필수,SE337,1,양자역학 (이공),3 3,박기성,50,,화요일12:00~14:00 화요일16:30~18:00 수요일16:30~18:00,4 5 11 12 16 18,301
-33,교선필수,SE335b,1,현대물리실험 (이공),6,박기성 윤춘섭,24,월요일19:00~23:00 수요일19:00~23:00 목요일19:00~23:00 금 19:00~23:00,수요일16:30~18:00,66,303
-34,교선필수,SE432,1,현대광학 (이 공),3 3,이기준,30,,수요일16:30~18:00,0 1 3 4 5 9 11 12 15,432
-35,공통필수,SE117,1,물질의 이해,3 3,남창훈,60,,수요일16:30~18:00,4 5 11 12,106
-36,공통필수,SE117,2,물질의 이해,3 3,남창훈,60,,수요일16:30~18:00,4 5 11 12,106
-37,공통필수,SE117,3,물질의 이해,3 3,정병혁,60,,9:00~10:30 수요일16:30~18:00,4 5 11 12,106
-38,공통필수,SE117,4,물질의 이해,3 3,정현숙,60,,16:30~18:00 수요일16:30~18:00,4 5 11 12,106
-39,교선필수,SE249a,1,화학실험(이),4,조장훈,24,목요일10:00~12:00,,26,207
-40,교선필수,SE249a,2,화학실험(이),4,조장훈,24,목요일14:00~16:00,,26,207
-41,교선필수,SE249a,3,화학실험(이),4,조장훈,24,목요일16:00~18:00,,26,207
-42,교선필수,SE249a,4,화학실험(이),4,이강욱,24,화요일13:00~16:00,,26,207
-43,교선필수,SE249a,5,화학실험(이),4,이강욱,24,화요일16:00~18:00,,26,207
-44,공통필수,SE207a,1,화학실험(이),4,미정3,12,화요일10:00~12:00,,26,207
-45,교선필수,SE247a,1,분석화학(이공),3 3,이호춘,60,화요일13:00~14:30 목요일13:00~14:30,,4 5 11 12 16 18,208
-46,교선필수,SE245d,1,유기화학 I(이),3 3,정병혁,60,,9:00~10:30,4 5 11 12 16 18,209
-47,교선필수,SE343a,1,무기화학 II(이),3 3,조재흥 박진희 이성기,30,,,0 1 3 4 5 9 11 12 15,304
-48,교선필수,SE441,1,고분자개론(이공),3 3,정대성,30,,,0 1 3 4 5 9 11 12 15,439
-49,교선필수,SE346a,1,심화화학실험Ⅰ(유기.분석화학)(이),8,정병혁 정현숙,24,,12:00~13:00 18:00~19:00 수요일16:30~18:00,27,306
-50,교선필수,SE346a,2,심화화학실험Ⅰ(유기.분석화학)(이),8,정병혁 정현숙,24,,12:00~13:00 18:00~19:00 수요일16:30~18:00,27,306
-51,공통필수,SE112,1,분자와 생명현상 실험,4,이창훈,24,월요일10:00~12:00 수요일10:00~12:00,수요일16:30~18:00,24,107
-52,공통필수,SE112,2,분자와 생명현상 실험,4,이상임,24,월요일14:00~18:00 화요일14:00~18:00 수요일9:00~12:00,화요일12:00~14:00 수요일16:30~18:00,24,107
-53,공통필수,SE112,4,분자와 생명현상 실험,4,김대환,24,수요일9:00~12:00 수요일 13:00~18:00,수요일16:30~18:00,24,107
-54,공통필수,SE212,1,세포와 생명현상,3 3,김대환,60,,수요일16:30~18:00,4 5 11 12 16 18,210
-55,공통필수,SE212,2,세포와 생명현상,3 3,김대환,60,,수요일16:30~18:00,4 5 11 12 16 18,210
-56,공통필수,SE212,3,세포와 생명현상,3 3,조정아,60,,수요일16:30~18:00,4 5 11 12 16 18,210
-57,공통필수,SE212,4,세포와 생명현상,3 3,조정아,60,,수요일16:30~18:00,4 5 11 12 16 18,210
-58,교선필수,SE251,1,생명과학 실험 I(이),6 6,이창훈,24,화요일 목요일,수요일16:30~18:00 금요일,35,212
-59,교선필수,SE251,2,생명과학 실험 I(이),6 6,조정아,24,월요일 수요일,수요일16:30~18:00 금요일,35,212
-60,교선필수,SE251,3,생명과학 실험 I(이),6 6,이상임,24,화요일19:00~22:00 목요일9:00~12:00,화요일12:00~14:00 수요일16:30~18:00 금요일,35,212
-61,교선필수,SE352,1,생명체의 다양성과 유기적 관계 (이),3 3,이상임,30,월요일13:00~18:00 수요일13:00~18:00,화요일12:00~14:00 수요일16:30~18:00,0 1 3 4 5 9 11 12 15,307
-62,교선필수,SE357,1,기초생화학 (이),3 3,이창훈,40,화요일10:30~12:00 목요일10:30~12:00,수요일16:30~18:00,0 1 3 4 5 11 12 ,308
-63,교선필수,SE357,2,기초생화학 (이),3 3,김대환,40,화요일9:00~18:00 수요일9:00~18:00 목요일9:00~18:00,수요일16:30~18:00,0 1 3 4 5 11 12 ,308
-64,교선필수,SE450a,1,발생 및 발달생물학 (이),3 3,김경진 곽준명 최한경,40,월요일10:30~12:00 수요일10:30~12:00,,0 1 3 4 5 11 12 ,0
-65,공통필수,SE118,1,디자인사고,6,박종래,50,화요일9:00~18:00 수요일9:00~12:00,수요일16:30~18:00,17,110
-66,공통필수,SE118,2,디자인사고,6,박종래,50,화요일9:00~18:00 수요일9:00~12:00,수요일16:30~18:00,17,110
-67,교선필수,SE372,1,메카트로닉스(공),3 3,임용섭,33,14:00~18:00,금요일 수요일16:30~18:00,11 12,309
-68,공통필수,SE213a,1,프로그래밍(이론),4,신동훈,60,,9:00~10:00 수요일16:30~18:00,4 5 11 12 16 18,213
-69,공통필수,SE213a,2,프로그래밍(이론),4,신동훈,60,,9:00~10:00 수요일16:30~18:00,4 5 11 12 16 18,213
-70,공통필수,SE213a,3,프로그래밍(이론),4,신동훈,60,,9:00~10:00 수요일16:30~18:00,4 5 11 12 16 18,213
-71,공통필수,SE213a,4,프로그래밍(이론),4,신동훈,60,,9:00~10:00 수요일16:30~18:00,4 5 11 12 16 18,213
-72,공통필수,SE213b,1,프로그래밍(실습),4,신동훈,30,,9:00~10:00 수요일16:30~18:00,25,0
-73,공통필수,SE213b,2,프로그래밍(실습),4,미정4,30,,,25,0
-74,공통필수,SE213b,3,프로그래밍(실습),4,미정4,30,,,25,0
-75,공통필수,SE213b,4,프로그래밍(실습),4,미정4,30,,,25,0
-76,공통필수,SE213b,5,프로그래밍(실습),4,미정4,30,,,25,0
-77,공통필수,SE213b,6,프로그래밍(실습),4,미정4,30,,,25,0
-78,공통필수,SE213b,7,프로그래밍(실습),4,미정4,30,,,25,0
-79,공통필수,SE213b,8,프로그래밍(실습),4,미정4,30,,,25,0
-80,교선필수,SE483,1,진동공학(공),3 3,임용섭,30,,수요일16:30~18:00,11 12,310
-81,교선필수,SE482,1,열전달(공),3 3,최경호,30,,수요일16:30~18:00,0 1 3 4 5 9 11 12 15,445
-82,교선필수,SE368a,1,기계열역학(공),3 3,최경호,30,,수요일16:30~18:00,0 1 3 4 5 9 11 12 15,0
-83,교선필수,SE379a,1,컴퓨터 구조(공),3 3,김대훈,0,화요일15:00~16:30 목요일15:00~16:30,,41,341
-84,교선필수,SE274,1,자료구조(이공),3 3,김선준,0,월요일15:00~16:30 수요일15:00~16:30,,55,218
-85,교선필수,SE391,1,신호 및 시스템(이공) ,3 3,곽정호,40,월요일10:30~12:00 수요일10:30~12:00,,55,336
-86,교선필수,SE392,1,전자 회로 이론(공),3 3,궁재하,40,월요일13:30~15:00 수요일13:30~15:00,,41,337
-87,교선필수,SE393,1,전자 소자 개론(공),3 3,강홍기,30,화요일10:30~12:00 목요일10:30~12:00,,42,338
-88,교선필수,SE370a,1,운영체제(공),3 3,이성진,50,화요일13:30~15:00 목요일13:30~15:00,,55,342
-89,교선필수,SE477,1,재료전자기학(이공),3 3,홍정일,30,화요일15:00~16:30 목요일15:00~16:30,,0 1 3 4 5 9 11 12 15,441
-90,교선필수,SE478,1,박막재료공학(이공),3 3,이신범,0,화요일9:00~10:30 목요일9:00~10:30,,0 1 3 4 5 11 12 ,442
-91,교선필수,SE479,1,표면계면과학(이),3 3,문대원,20,화요일13:00~14:30 목요일13:00~14:30,,0 1 3 4 5 9 11 12 15,443
-92,교선필수,SE396,1,재료공학개론(공),3 3,이주혁,30,화요일9:00~18:00 목요일9:00~18:00,,0 1 3 4 5 9 11 12 15,339
-93,교선필수,SE476,1,강화학습(이공),3 3,이두석,50,,수요일16:30~18:00,4 5 11 12 16 18,440
-94,교선필수,SE365,1,인간과 공학(공),3 3,김회준 최홍수 홍재성 장경인 이상훈 이옥균,35,수요일16:00~17:30 목요일16:00~17:30,,48,311
-95,교선필수,SE374a,1,신경과학Ⅰ(이),3 3,서병창,60,월요일10:30~12:00 목요일10:30~12:00,,18,312
-96,교선필수,EM725,1,고급 양자역학II(이),3 3,이재동,0,화요일10:30~12:00 목요일10:30~12:00,,40,412
-97,교선필수,EM667,1,광화학(이),3 3,박진희,0,화요일10:30~12:00 목요일10:30~12:00,,56,411
-98,교선필수,EM658,1,생유기화학(이),3 3,홍선기,0,화요일15:00~16:30 목요일15:00~16:30,,57,413
-99,교선필수,IC530,1,EE: 통신의 기초(이공),3 3,최지웅,0,화요일15:00~16:30 목요일15:00~16:30,,55,416
-100,교선필수,IC582,1,EE: 반도체 공정 개론 (이공),3 3,장재은,20,월요일10:30~12:00 월요일13:00~14:30,,58,417
-101,교선필수,IC567,1,EE: 선형 시스템 (이공),3 3,김경대,20,월요일15:00~16:30 수요일15:00~16:30,,41,433
-102,교선필수,IC522,1,EE&CSE: 컴퓨터 네트워크 (이공),3 3,최지환,0,화요일10:30~12:00 목요일10:30~12:00,,55,418
-103,교선필수,RT512,1,생체신호 측정 및 처리★ (공),3 3,홍재성,20,월요일13:00~14:30 수요일13:00~14:30,,47,434
-104,교선필수,RT514,1,의용생체공학★ (공),3 3,김소희,30,월요일14:30~16:00 수요일14:30~16:00,,47,428
-105,교선필수,RT516,1,의료영상학★(공),3 3,유재석,0,화요일10:30~12:00 목요일10:30~12:00,,47,0
-106,교선필수,RT518,1,광공학 (공),3 3,송철,20,화요일9:00~10:30 목요일9:00~10:30,,48,429
-107,교선필수,RT618,1,마이크로/나노공학(공),3 3,최홍수,20,월요일13:00~14:30 수요일13:00~14:30,,46,430
-108,교선필수,RT521,1,선형 시스템 제어(공),3 3,장평훈,20,화요일10:30~12:00 목요일10:30~12:00,,48,431
-109,교선필수,RT530,1,과학적 사고와 논문작성법(이공),3 3,장평훈,20,화요일14:30~16:00 목요일14:30~16:00,,59,435
-110,교선필수,ES748,1,고급 광전자공학(이공),3 3,이윤구,10,월요일13:30~15:00 수요일16:30~18:00,,50,415
-111,교선필수,ES621,1,분석개론(이공),3 3,이종수,10,월요일10:30~12:00 수요일10:30~12:00,,50,436
-112,교선필수,BS605,1,뇌과학 개론(이),4 4,김은경 문제일 유성운 고재원 서병창 김규형 엄지원 이성배 오용석 이효상 최한경 전현애 유우경 서진수 백명인,60,화요일9:30~11:30 목요일9:30~11:30,,44,409
-113,교선필수,BS607,1,뇌과학 방법론(이),4 4,오용석 장익수 문제일 유성운 김은경 고재원 이성배 이효상 최한경 전현애 유우경 서진수 백명인,60,월요일9:30~11:30 수요일9:30~11:30,,44,410
-114,교선필수,BS732,1,시냅스 생물학 동향(이),6,고재원,0,목요일15:00~18:00,,60,450
-115,교선필수,NB520,1,노화의 생물학(이),3 3,이영삼 우혜련,11,월요일15:00~16:30 수요일15:00~16:30,,44,420
-116,교선필수,NB523,1,고급 유전체학(이),3 3,임평옥 이재민,11,월요일13:30~15:00 수요일13:30~15:00,,45,421
-117,교선필수,NB536,1,생물정보학(이),3 3,김종경,11,월요일10:30~12:00 수요일10:30~12:00,,45,422
-118,교선필수,NB541,1,최신 바이오기술(이),3 3,김민석,11,화요일15:00~16:30 목요일15:00~16:30,,45,423
-119,교선필수,NB547,1,단백질 항상성과 질병(이),6,이병훈,11,월요일18:30~21:30,,45,424
-120,교선필수,NB548,1,대사생리학(이),3 3,이재민 이영삼,11,월요일10:30~12:00 수요일10:30~12:00,,61,425
-121,교선필수,NB549,1,바이오광학 개론(이),6,이종찬,11,금요일13:00~16:00,,49,426
-122,교선필수,NB552,1,생분광학(이),3 3,김진해,11,화요일13:30~15:00 목요일13:30~15:00,,49,437
-123,교선필수,NB605,1,의학생물학(이),3 3,예경무,11,월요일15:00~16:30 수요일15:00~16:30,,45,427
-124,교선필수,NB598,1,단백체 실험(이),6,김민식,2,화요일17:30~22:00,,62,449
-125,교선필수,NB607,1,생명과학도를 위한 주요 질환 소개(이공),3 3,정영태,15,화요일15:00~16:30 목요일15:00~16:30,,44,438
-126,교선필수,NB513,1,고급 세포 생물학(이),3 3,우혜련 임평옥,11,화요일10:30~12:00 목요일10:30~12:00,,45,419
-127,교선필수,CR536,1,구조생물학(이),6 6,이창훈 유우경 김진해 이영삼,20,월요일13:00~16:00 수요일13:00~16:00,수요일16:30~18:00,63 64,448
-128,공통필수,HL101a,1,비교역사학 ,3 3,김대륜,50,월요일10:30~12:00 목요일10:30~12:00 월요일14:30~16:00 목요일14:30~16:00,수요일16:30~18:00,4 5 11 12 16 18,108
-129,공통필수,HL101a,2,비교역사학 ,3 3,김대륜,50,월요일10:30~12:00 목요일10:30~12:00 월요일14:30~16:00 목요일14:30~16:00,수요일16:30~18:00,4 5 11 12 16 18,108
-130,공통필수,HL111a,1,쓰기·읽기·말하기 ,3 3,임태훈,30,10:30~18:00,금요일 수요일16:30~18:00,0 1 3 4 5 9 11 12 15,109
-131,공통필수,HL111a,2,쓰기·읽기·말하기 ,3 3,임태훈,30,10:30~18:00,금요일 수요일16:30~18:00,0 1 3 4 5 9 11 12 15,109
-132,공통필수,HL111a,3,쓰기·읽기·말하기 ,3 3,임태훈,30,10:30~18:00,금요일 수요일16:30~18:00,0 1 3 4 5 9 11 12 15,109
-133,공통필수,HL111a,4,쓰기·읽기·말하기 ,3 3,임태훈,30,10:30~18:00,금요일 수요일16:30~18:00,0 1 3 4 5 9 11 12 15,109
-134,공통필수,HL204a,1,동서양 철학의 통시적 이해,3 3,김남두,50,,수요일16:30~18:00,4 5 11 12 16 18,214
-135,공통필수,HL204a,2,동서양 철학의 통시적 이해,3 3,김남두,10,,수요일16:30~18:00,4 5 11 12 16 18,214
-136,교선필수,HL323,1,동서양문학의이해,6,이지용,30,목요일14:00~17:00,,0 1 3 4 5 9 11 12 15,322
-137,교선필수,HL324,1,소설의이해 ,6,이지용,30,목요일9:30~12:30,,0 1 3 4 5 9 11 12 15,321
-138,교선필수,HL331a,1,비판적 사고와 글쓰기 ,6,김필남 ,30,월요일19:00~22:00,,0 1 3 4 5 9 11 12 15,320
-139,교선필수,HL322,1,법과 사회,3 3,윤형열,30,수요일14:30~16:00 목요일10:30~12:00,,0 1 3 4 5 9 11 12 15,331
-140,교선필수,HL330,1,인문사회과학특강: 역사와 영화,6,김대륜,30,목요일19:00~22:00,수요일16:30~18:00,0 1 3 4 5 9 11 12 15,317
-141,교선필수,HL344,1,인문학특강: 영문학의 숲을 거닐다,6,최재헌,30,수요일18:00~21:00,,0 1 3 4 5 9 11 12 15,316
-142,교선필수,HL336,1,비교정치학,3 3,윤지성,30,월요일10:30~12:00 수요일10:30~12:00,수요일16:30~18:00,0 1 3 4 5 9 11 12 15,313
-143,교선필수,HL346,1,한국사회의 이해,6,이종구,30,화요일14:30~17:30,,0 1 3 4 5 9 11 12 15,315
-144,교선필수,HL326,1,경제학 입문,6,김완진,30,화요일14:30~17:30,,0 1 3 4 5 9 11 12 15,314
-145,교선필수,HL341,1,현대사회와 커뮤니케이션,6,김학수,30,목요일15:00~18:00,,0 1 3 4 5 9 11 12 15,332
-146,교선필수,HL348,1,고전의 산책,6,김대륜 이정아 이준석 임태훈 윤지성,30,월요일19:00~22:00,수요일16:30~18:00,4,319
-147,교선필수,HL339,1,English for Literature ,6,이정아,30,화요일19:00~22:00 목요일19:00~22:00,수요일16:30~18:00,0 1 3 4 5 9 11 12 15,325
-148,교선필수,HL327,1,과학기술과 현대사회,6,이준석,30,수요일19:00~22:00,수요일16:30~18:00,4,333
-149,교선필수,HL328,1,과학기술사의 주요 장면,6,이준석,30,화요일19:00~22:00,수요일16:30~18:00,4,323
-150,교선필수,HL329,1,과학철학의 쟁점,6,이준석,30,목요일19:00~22:00,수요일16:30~18:00,4,324
-151,교선필수,HL352,1,산업과 법,6,이정재,30,수요일9:00~18:00,,0 1 3 4 5 9 11 12 15,0
-152,교선필수,HL349,1,사회학의 이해,6,이종구,30,수요일09:00~12:00,,0 1 3 4 5 9 11 12 15,0
-153,교선필수,HL353,1,게임이론,6,김완진,30,수요일09:00~12:00,,0 1 3 4 5 9 11 12 15,0
-154,교선필수,HL350,1,경영학원론,6,김재일,30,목요일14:30~17:30,,0 1 3 4 5 9 11 12 15,0
-155,교선필수,HL351,1,하이테크 마케팅,6,김재일,30,금요일9:00~12:00,,0 1 3 4 5 9 11 12 15,0
-156,공통필수,HL306a,1,기업가 정신과 사회적 책임,6,임진우,100,,수요일16:30~18:00,16 18,328
-157,공통필수,HL306a,2,기업가 정신과 사회적 책임,6,임진우,100,,수요일16:30~18:00,16 18,328
-158,공통필수,HL103,1,음악I: 클래식기타,4,박종호,12,월요일16:00~18:00,,30 31 32 33,113
-159,공통필수,HL103,2,음악I: 클래식기타,4,박종호,12,월요일18:30~20:30,,30 31 32 33,113
-160,공통필수,HL103,3,음악I: 클래식기타,4,박종호,12,월요일20:30~22:30,,30 31 32 33,113
-161,공통필수,HL103,4,음악I: 바이올린,4,정진희,10,월요일16:00~18:00,,30 31 32 33,113
-162,공통필수,HL103,5,음악I: 바이올린(심화),4,정진희,10,월요일18:30~20:30,,30 31 32 33,113
-163,공통필수,HL103,6,음악I: 첼로,4,정광준,8,월요일16:00~18:00,,30 31 32 33,113
-164,공통필수,HL103,7,음악I: 앙상블,4,정광준,10,월요일18:30~20:30,,30 31 32 33,113
-165,공통필수,HL103,8,음악I: 클라리넷,4,나혜수 ,10,월요일16:00~18:00,,30 31 32 33,113
-166,공통필수,HL103,9,음악I: 클라리넷,4,나혜수 ,10,월요일18:30~20:30,,30 31 32 33,113
-167,공통필수,HL103,11,음악I: 피아노,4,송재경,10,화요일16:00~18:00,,34,113
-168,공통필수,HL103,12,음악I: 피아노 ,4,송재경,10,화요일18:30~20:30,,34,113
-169,공통필수,HL103,13,음악I: 피아노 4hands 앙상블 ,4,송재경,10,수요일10:00~12:00,,34,113
-170,공통필수,HL103,14,음악I: 바이올린,4,이강원,10,화요일18:30~20:30,,30 31 32 33,113
-171,공통필수,HL103,15,음악I: 바이올린,4,이강원,10,화요일20:30~22:30,,30 31 32 33,113
-172,공통필수,HL103,16,음악I: 합창,4,김진수,25,화요일16:00~18:00,,30,113
-173,공통필수,HL103,17,음악I: 합창,4,김진수,25,화요일18:30~20:30,,30,113
-174,공통필수,HL103,18,음악I: 보컬,4,김진수,10,화요일20:30~22:30,,30 31 32 33,113
-175,공통필수,HL105,1,체육Ⅰ: 태권도 기본과 품새,4,이지훈,27,월요일16:30~18:30,,28 29,112
-176,공통필수,HL105,2,체육Ⅰ: 태권도 기본과 품새,4,유영호,27,월요일16:30~18:30,,28 29,112
-177,공통필수,HL105,3,체육Ⅰ: 태권도 기본과 품새,4,이지훈,27,월요일18:30~20:30,,28 29,112
-178,공통필수,HL105,4,체육Ⅰ: 태권도 기본과 품새,4,유영호,27,월요일18:30~20:30,,28 29,112
-179,공통필수,HL105,5,체육Ⅰ: 태권도 기본과 품새,4,이지훈,27,목요일16:30~18:30,,28 29,112
-180,공통필수,HL105,6,체육Ⅰ: 태권도 기본과 품새,4,김상명,27,목요일16:30~18:30,,28 29,112
-181,공통필수,HL105,7,체육Ⅰ: 태권도 기본과 품새,4,이지훈,27,목요일18:30~20:30,,28 29,112
-182,공통필수,HL105,8,체육Ⅰ: 태권도 기본과 품새,4,김상명,27,목요일18:30~20:30,,28 29,112
-183,공통필수,HL107,1,Communication Skills,4,Anna,25,,9:00~10:00 화요일12:00~14:00,6 7 15,111
-184,공통필수,HL107,2,Communication Skills,4,Anna,25,,9:00~10:00 화요일12:00~14:00,6 7 15,111
-185,공통필수,HL107,3,Communication Skills,4,Philip,25,,9:00~10:00 화요일12:00~14:00,6 7 15,111
-186,공통필수,HL107,4,Communication Skills,4,Philip,25,,9:00~10:00 화요일12:00~14:00,6 7 15,111
-187,공통필수,HL107,5,Communication Skills,4,Aaron,25,,9:00~10:00 화요일12:00~14:00,6 7 15,111
-188,공통필수,HL107,6,Communication Skills,4,Aaron,25,,9:00~10:00 화요일12:00~14:00,6 7 15,111
-189,공통필수,HL107,7,Communication Skills,4,Aaron,25,,9:00~10:00 화요일12:00~14:00,6 7 15,111
-190,공통필수,HL107,8,Communication Skills,4,미정5,25,,9:00~10:00 화요일12:00~14:00,6 7 15,111
-191,공통필수,HL107,9,Communication Skills,4,미정5,25,,9:00~10:00 화요일12:00~14:00,6 7 15,111
-192,공통필수,HL203,1,English for Science Leaders I,4,Anna,25,,9:00~10:00 월요일16:00~18:00 화요일12:00~14:00 수요일16:00~18:00,6 7 15,216
-193,공통필수,HL203,2,English for Science Leaders I,4,Anna,25,,9:00~10:00 월요일16:00~18:00 화요일12:00~14:00 수요일16:00~18:00,6 7 15,216
-194,공통필수,HL203,3,English for Science Leaders I,4,Anna,25,,9:00~10:00 월요일16:00~18:00 화요일12:00~14:00 수요일16:00~18:00,6 7 15,216
-195,공통필수,HL203,4,English for Science Leaders I,4,Philip,25,,9:00~10:00 월요일16:00~18:00 화요일12:00~14:00 수요일16:00~18:00,6 7 15,216
-196,공통필수,HL203,5,English for Science Leaders I,4,Philip,25,,9:00~10:00 월요일16:00~18:00 화요일12:00~14:00 수요일16:00~18:00,6 7 15,216
-197,공통필수,HL203,6,English for Science Leaders I,4,Philip,25,,9:00~10:00 월요일16:00~18:00 화요일12:00~14:00 수요일16:00~18:00,6 7 15,216
-198,공통필수,HL203,7,English for Science Leaders I,4,Philip,25,,9:00~10:00 월요일16:00~18:00 화요일12:00~14:00 수요일16:00~18:00,6 7 15,216
-199,공통필수,HL203,8,English for Science Leaders I,4,Aaron,25,,9:00~10:00 월요일16:00~18:00 화요일12:00~14:00 수요일16:00~18:00,6 7 15,216
-200,공통필수,HL203,9,English for Science Leaders I,4,Aaron,25,,9:00~10:00 월요일16:00~18:00 화요일12:00~14:00 수요일16:00~18:00,6 7 15,216
-201,공통필수,HL301,1,Scientific Writing,4,이정아,20,,9:00~10:00 수요일16:30~18:00,6 7 15,326
-202,공통필수,HL301,2,Scientific Writing,4,Anna,20,,9:00~10:00,6 7 15,326
-203,공통필수,HL301,3,Scientific Writing,4,Aaron,20,,9:00~10:00,6 7 15,326
-204,교선필수,HL270a,1,융합탐구세미나 : Principles & Applications of Bioelectromagnetics,4,Ogan,25,월요일13:00~15:00,,,217
-205,공통필수,HL205,1,리더십Ⅰ,4,윤지성,100,월요일16:00~18:00,,14,215
-206,공통필수,HL205,2,리더십Ⅰ,4,윤지성,100,수요일16:00~18:00,,14,215
-207,공통필수,HL304,1,글로벌리더십Ⅰ,4,김학수,30,금요일10:00~12:00,,0 1 3 4 5 9 11 12 15,327
-208,교선필수,HL479,1,기술벤처Ⅰ,6,임진우,60,,수요일16:30~18:00,4 5 11 12 16 18,408
+0,Required,SE101a,1,Applied Calculus and Differential Equations,3 3 4,H.J.Ahn,60,,Fri- Wed-16:30~18:00,4 5 11 12,101
+1,Required,SE101a,2,Applied Calculus and Differential Equations,5 5,H.S.Kang,60,,Fri- Wed-16:30~18:00,4 5 11 12,101
+2,Required,SE101a,3,Applied Calculus and Differential Equations,3 3 4,S.Y.Ahn,50,,Mon-9:00~10:30 Wed-9:00~10:30 Tue-9:00~10:30 Thr-9:00~10:30 Wed-16:30~18:00,4 5 11 12,101
+3,Required,SE101a,4,Applied Calculus and Differential Equations,3 3 4,K.J.Han,50,,Mon-9:00~10:30 Wed-16:30~18:00,4 5 11 12,101
+4,Required,SE201c,1,Linear Algebra,3 3 4,D.S.Lee,60,,Wed-16:30~18:00,4 5 11 12,201
+5,Required,SE201c,2,Linear Algebra,3 3 4,S.Y.Ahn,50,,Mon-9:00~10:30 Wed-9:00~10:30 Tue-9:00~10:30 Thr-9:00~10:30 Wed-16:30~18:00,4 5 11 12,201
+6,Required,SE201c,3,Linear Algebra,3 3 4,H.I.Lim,60,Mon-9:00~18:00 Wed-9:00~18:00,,4 5 11 12,201
+7,Required,SE201d,1,Linear Algebra (Honors),3 3 4,K.J.Han,40,,Mon-9:00~10:30 Wed-16:30~18:00,4 5 11 12,202
+8,Required,SE206a,1,Introduction to Probability and Mathematical Statistics with R,4 4,Joo-Han.Kim,65,,Mon-9:00~10:00 Fri- Wed-16:30~18:00,16 18,203
+9,Required,SE206a,2,Introduction to Probability and Mathematical Statistics with R,4 4,Joo-Han.Kim,65,,Mon-9:00~10:00 Fri- Wed-16:30~18:00,16 18,203
+10,Elective,SE321,1,Introduction to Number Theory and Abstract Algebra,3 3,H.I.Lim,40,Mon-9:00~18:00 Wed-9:00~18:00,,0 1 3 4 5 11 12 ,302
+11,Elective,SE329,1,Introduction to Mathematical Analysis,3 3,H.J.Ahn,40,,Fri- Wed-16:30~18:00,0 1 3 4 5 11 12 ,330
+12,Elective,SE420,1,Differential Geometry,3 3,H.S.Kang,40,,Fri- Wed-16:30~18:00,0 1 3 4 5 11 12 ,401
+13,Elective,SE424,1,Seminars in Mathematics,3 3,J.J.Lee,50,Tue-9:00~18:00 Wed-9:00~18:00,,4 5 11 12 16 18,402
+14,Elective,SE321,1,Introduction to Number Theory and Abstract Algebra,3 3,S.H.Park,60,Tue-14:30~16:00 Thr-14:30~16:00,,46,334
+15,Required,SE103,1,Classical Mechanics,3 3,H.S.Zoe,65,,Wed-16:30~18:00,4 5 11 12,103
+16,Required,SE103,2,Classical Mechanics,3 3,H.S.Zoe,65,,Wed-16:30~18:00,4 5 11 12,103
+17,Required,SE103,1,Classical Mechanicsb,3 3,K.S.Park,65,,Wed-16:30~18:00,4 5 11 12,102
+18,Required,SE103,1,Classical Mechanicsa,3 3,C.S.Yoon,65,,Wed-16:30~18:00,4 5 11 12,104
+19,Required,SE104,1,Classical Mechanics Lab,4,K.S.Park,20,,Tue-12:00~14:00 Tue-16:30~18:00 Wed-16:30~18:00,19 20,105
+20,Required,SE104,2,Classical Mechanics Lab,4,H.S.Zoe,20,,Wed-16:30~18:00,19 20,105
+21,Required,SE104,3,Classical Mechanics Lab,4,H.S.Zoe,20,,Wed-16:30~18:00,19 20,105
+22,Required,SE104,4,Classical Mechanics Lab,4,Unknown1,20,Tue-9:00~18:00,,19 20,105
+23,Required,SE104,5,Classical Mechanics Lab,4,Unknown1,20,Tue-9:00~18:00,,19 20,105
+24,Required,SE104,6,Classical Mechanics Lab,4,Unknown1,20,Thr-9:00~18:00,,19 20,105
+25,Required,SE104,7,Classical Mechanics Lab,4,Unknown1,20,Thr-9:00~18:00,,19 20,105
+26,Elective,SE235a,1,Electric Circuit and Measurement (Lecture),4,K.J.Lee,120,,Wed-16:30~18:00,14,204
+27,Elective,SE235b,1,Electric Circuit and Measurement (Lab),4,Unknown2,24,,,65,205
+28,Elective,SE235b,2,Electric Circuit and Measurement (Lab),4,Unknown2,24,,,65,205
+29,Elective,SE235b,3,Electric Circuit and Measurement (Lab),4,Unknown2,24,,,65,205
+30,Elective,SE235b,4,Electric Circuit and Measurement (Lab),4,Unknown2,24,,,65,205
+31,Elective,SE236,1,Analytical Mechanics,3 3,C.S.Yoon,60,,Wed-16:30~18:00,4 5 11 12 16 18,206
+32,Elective,SE337a,1,Quantum Mechanics,3 3,K.S.Park,50,,Tue-12:00~14:00 Tue-16:30~18:00 Wed-16:30~18:00,4 5 11 12 16 18,301
+33,Elective,SE335b,1,Modern Physics Lab,6,K.S.Park C.S.Yoon,24,Mon-19:00~23:00 Wed-19:00~23:00 Thr-19:00~23:00 금 19:00~23:00,Wed-16:30~18:00,66,303
+34,Elective,SE432,1,Modern Optics,3 3,K.J.Lee,30,,Wed-16:30~18:00,0 1 3 4 5 9 11 12 15,432
+35,Required,SE117,1,General Chemistry I (on Matter),3 3,C.H.Nam,60,,Wed-16:30~18:00,4 5 11 12,106
+36,Required,SE117,2,General Chemistry I (on Matter),3 3,C.H.Nam,60,,Wed-16:30~18:00,4 5 11 12,106
+37,Required,SE117,3,General Chemistry I (on Matter),3 3,B.H.Cheong,60,,9:00~10:30 Wed-16:30~18:00,4 5 11 12,106
+38,Required,SE117,4,General Chemistry I (on Matter),3 3,H.S.Cheong,60,,16:30~18:00 Wed-16:30~18:00,4 5 11 12,106
+39,Elective,SE249a,1,Chemistry Major Lab,4,Jang-Hun.Jo,24,Thr-10:00~12:00,,26,207
+40,Elective,SE249a,2,Chemistry Major Lab,4,Jang-Hun.Jo,24,Thr-14:00~16:00,,26,207
+41,Elective,SE249a,3,Chemistry Major Lab,4,Jang-Hun.Jo,24,Thr-16:00~18:00,,26,207
+42,Elective,SE249a,4,Chemistry Major Lab,4,Kang-Wook.Lee,24,Tue-13:00~16:00,,26,207
+43,Elective,SE249a,5,Chemistry Major Lab,4,Kang-Wook.Lee,24,Tue-16:00~18:00,,26,207
+44,Required,SE207a,1,Chemistry Major Lab,4,Unknown3,12,Tue-10:00~12:00,,26,207
+45,Elective,SE247d,1,Analytical Chemistry,3 3,H.C.Lee,60,Tue-13:00~14:30 Thr-13:00~14:30,,4 5 11 12 16 18,208
+46,Elective,SE245d,1,Organic Chemistry I,3 3,B.H.Cheong,60,,9:00~10:30,4 5 11 12 16 18,209
+47,Elective,SE343a,1,Inorganic Chemistry II,3 3,Jae-Hung.Jo Jin-Hee.Park S.K.Lee,30,,,0 1 3 4 5 9 11 12 15,304
+48,Elective,SE441,1,Introduction to Polymer Science and Engineering,3 3,D.S.Jeong,30,,,0 1 3 4 5 9 11 12 15,439
+49,Elective,SE346a,1,Advanced Chemistry Lab I (Analytical and Organic Chemistry),8,B.H.Cheong H.S.Cheong,24,,12:00~13:00 18:00~19:00 Wed-16:30~18:00,27,306
+50,Elective,SE346a,2,Advanced Chemistry Lab I (Analytical and Organic Chemistry),8,B.H.Cheong H.S.Cheong,24,,12:00~13:00 18:00~19:00 Wed-16:30~18:00,27,306
+51,Required,SE112,1,General Biology Lab,4,C.H.Lee,24,Mon-10:00~12:00 Wed-10:00~12:00,Wed-16:30~18:00,24,107
+52,Required,SE112,2,General Biology Lab,4,S.I.Lee,24,Mon-14:00~18:00 Tue-14:00~18:00 Wed-9:00~12:00,Tue-12:00~14:00 Wed-16:30~18:00,24,107
+53,Required,SE112,4,General Biology Lab,4,Dae-Hwan.Kim,24,Wed-9:00~12:00 Wed- 13:00~18:00,Wed-16:30~18:00,24,107
+54,Required,SE212a,1,Cell Biology,3 3,Dae-Hwan.Kim,60,,Wed-16:30~18:00,4 5 11 12 16 18,210
+55,Required,SE212a,2,Cell Biology,3 3,Dae-Hwan.Kim,60,,Wed-16:30~18:00,4 5 11 12 16 18,210
+56,Required,SE212a,3,Cell Biology,3 3,J.A.Jo,60,,Wed-16:30~18:00,4 5 11 12 16 18,210
+57,Required,SE212a,4,Cell Biology,3 3,J.A.Jo,60,,Wed-16:30~18:00,4 5 11 12 16 18,210
+58,Elective,SE251,1,Molecular and Cellular Biology Lab,6 6,C.H.Lee,24,Tue- Thr-,Wed-16:30~18:00 Fri-,35,212
+59,Elective,SE251,2,Molecular and Cellular Biology Lab,6 6,J.A.Jo,24,Mon- Wed-,Wed-16:30~18:00 Fri-,35,212
+60,Elective,SE251,3,Molecular and Cellular Biology Lab,6 6,S.I.Lee,24,Tue-19:00~22:00 Thr-9:00~12:00,Tue-12:00~14:00 Wed-16:30~18:00 Fri-,35,212
+61,Elective,SE352,1,Ecology and Evolution,3 3,S.I.Lee,30,Mon-13:00~18:00 Wed-13:00~18:00,Tue-12:00~14:00 Wed-16:30~18:00,0 1 3 4 5 9 11 12 15,307
+62,Elective,SE357,1,Biochemistry,3 3,C.H.Lee,40,Tue-10:30~12:00 Thr-10:30~12:00,Wed-16:30~18:00,0 1 3 4 5 11 12 ,308
+63,Elective,SE357,2,Biochemistry,3 3,Dae-Hwan.Kim,40,Tue-9:00~18:00 Wed-9:00~18:00 Thr-9:00~18:00,Wed-16:30~18:00,0 1 3 4 5 11 12 ,308
+64,Elective,SE450a,1,Principles of Development,3 3,K.J.Kim J.M.Kwak H.K.Choi,40,Mon-10:30~12:00 Wed-10:30~12:00,,0 1 3 4 5 11 12 ,0
+65,Required,SE118,1,Design Thinking,6,J.R.Park,50,Tue-9:00~18:00 Wed-9:00~12:00,Wed-16:30~18:00,17,110
+66,Required,SE118,2,Design Thinking,6,J.R.Park,50,Tue-9:00~18:00 Wed-9:00~12:00,Wed-16:30~18:00,17,110
+67,Elective,SE372,1,Mechatronics,3 3,Y.S.Lim,33,14:00~18:00,Fri- Wed-16:30~18:00,11 12,309
+68,Required,SE213a,1,Introduction to Programming (Lecture),4,D.H.Shin,60,,9:00~10:00 Wed-16:30~18:00,4 5 11 12 16 18,213
+69,Required,SE213a,2,Introduction to Programming (Lecture),4,D.H.Shin,60,,9:00~10:00 Wed-16:30~18:00,4 5 11 12 16 18,213
+70,Required,SE213a,3,Introduction to Programming (Lecture),4,D.H.Shin,60,,9:00~10:00 Wed-16:30~18:00,4 5 11 12 16 18,213
+71,Required,SE213a,4,Introduction to Programming (Lecture),4,D.H.Shin,60,,9:00~10:00 Wed-16:30~18:00,4 5 11 12 16 18,213
+72,Required,SE213b,1,Introduction to Programming (Lab),4,D.H.Shin,30,,9:00~10:00 Wed-16:30~18:00,25,0
+73,Required,SE213b,2,Introduction to Programming (Lab),4,Unknown4,30,,,25,0
+74,Required,SE213b,3,Introduction to Programming (Lab),4,Unknown4,30,,,25,0
+75,Required,SE213b,4,Introduction to Programming (Lab),4,Unknown4,30,,,25,0
+76,Required,SE213b,5,Introduction to Programming (Lab),4,Unknown4,30,,,25,0
+77,Required,SE213b,6,Introduction to Programming (Lab),4,Unknown4,30,,,25,0
+78,Required,SE213b,7,Introduction to Programming (Lab),4,Unknown4,30,,,25,0
+79,Required,SE213b,8,Introduction to Programming (Lab),4,Unknown4,30,,,25,0
+80,Elective,SE483,1,Engineering Vibration,3 3,Y.S.Lim,30,,Wed-16:30~18:00,11 12,310
+81,Elective,SE482,1,Fundamental of Heat Transfer,3 3,K.H.Choi,30,,Wed-16:30~18:00,0 1 3 4 5 9 11 12 15,445
+82,Elective,SE368a,1,Mechanical Thermodynamics,3 3,K.H.Choi,30,,Wed-16:30~18:00,0 1 3 4 5 9 11 12 15,0
+83,Elective,SE379a,1,Computer Architecture,3 3,Dae-Hoon.Kim,0,Tue-15:00~16:30 Thr-15:00~16:30,,41,341
+84,Elective,SE274,1,Data Structure,3 3,S.J.Kim,0,Mon-15:00~16:30 Wed-15:00~16:30,,55,218
+85,Elective,SE391,1,Signalsl and Systems,3 3,J.H.Kwak,40,Mon-10:30~12:00 Wed-10:30~12:00,,55,336
+86,Elective,SE392,1,Introduction to Electronic Circuits,3 3,J.H.Kung,40,Mon-13:30~15:00 Wed-13:30~15:00,,41,337
+87,Elective,SE393,1,Fundamentals of Electronic Devices,3 3,H.K.Kang,30,Tue-10:30~12:00 Thr-10:30~12:00,,42,338
+88,Elective,SE370a,1,Operating Systems,3 3,S.J.Lee,50,Tue-13:30~15:00 Thr-13:30~15:00,,55,342
+89,Elective,SE477,1,Electromagnetism in Materials,3 3,J.I.Hong,30,Tue-15:00~16:30 Thr-15:00~16:30,,0 1 3 4 5 9 11 12 15,441
+90,Elective,SE478,1,Materials science of thin films,3 3,Shin-Bum.Lee,0,Tue-9:00~10:30 Thr-9:00~10:30,,0 1 3 4 5 11 12 ,442
+91,Elective,SE479,1,Surface and Interface Science,3 3,D.W.Moon,20,Tue-13:00~14:30 Thr-13:00~14:30,,0 1 3 4 5 9 11 12 15,443
+92,Elective,SE396,1,Introduction to materials science & engineering,3 3,Ju-Hyuk.Lee,30,Tue-9:00~18:00 Thr-9:00~18:00,,0 1 3 4 5 9 11 12 15,339
+93,Elective,SE476,1,Reinforcement learning,3 3,D.S.Lee,50,,Wed-16:30~18:00,4 5 11 12 16 18,440
+94,Elective,SE365,1,Robots for Human,3 3,H.J.Kim H.S.Choi J.S.Hong K.I.Jang S.H.Lee Y.K.Lee,35,Wed-16:00~17:30 Thr-16:00~17:30,,48,311
+95,Elective,SE374a,1,Neuroscience I,3 3,B.C.Seo,60,Mon-10:30~12:00 Thr-10:30~12:00,,18,312
+96,Elective,EM725,1,Advanced quantum mechanics II,3 3,J.D.Lee,0,Tue-10:30~12:00 Thr-10:30~12:00,,40,412
+97,Elective,EM667,1,Photochemistry,3 3,Jin-Hee.Park,0,Tue-10:30~12:00 Thr-10:30~12:00,,56,411
+98,Elective,EM658,1,Bioorganic chemistry,3 3,S.K.Hong,0,Tue-15:00~16:30 Thr-15:00~16:30,,57,413
+99,Elective,IC530,1,Principles of Commnication,3 3,J.W.Choi,0,Tue-15:00~16:30 Thr-15:00~16:30,,55,416
+100,Elective,IC582,1,Device Fabrication Process for Nanotechnology),3 3,J.Y.Chang,20,Mon-10:30~12:00 Mon-13:00~14:30,,58,417
+101,Elective,IC567,1,Linear Systems,3 3,K.D.Kim,20,Mon-15:00~16:30 Wed-15:00~16:30,,41,433
+102,Elective,IC522,1,computer networks,3 3,Ji-Hwan.Choi,0,Tue-10:30~12:00 Thr-10:30~12:00,,55,418
+103,Elective,RT512,1,Measurement and Signal Processing in Medicine,3 3,J.S.Hong,20,Mon-13:00~14:30 Wed-13:00~14:30,,47,434
+104,Elective,RT514,1,Biomedical Engineering ,3 3,S.H.Kim,30,Mon-14:30~16:00 Wed-14:30~16:00,,47,428
+105,Elective,RT516,1,Medical Imaging,3 3,J.S.Yoo,0,Tue-10:30~12:00 Thr-10:30~12:00,,47,0
+106,Elective,RT518,1,Optical Engineering,3 3,C.Song,20,Tue-9:00~10:30 Thr-9:00~10:30,,48,429
+107,Elective,RT618,1,Micro/Nano Engineering,3 3,H.S.Choi,20,Mon-13:00~14:30 Wed-13:00~14:30,,46,430
+108,Elective,RT521,1,Linear System Control,3 3,P.H.Chang,20,Tue-10:30~12:00 Thr-10:30~12:00,,48,431
+109,Elective,RT530,1,Thinking and Writing,3 3,P.H.Chang,20,Tue-14:30~16:00 Thr-14:30~16:00,,59,435
+110,Elective,ES748,1,Advanced Optoelectronic Materials & Devices,3 3,Y.G.Lee,10,Mon-13:30~15:00 Wed-16:30~18:00,,50,415
+111,Elective,ES621,1,Instrumental Analysis for Energy Materials,3 3,Jong-Soo.Lee,10,Mon-10:30~12:00 Wed-10:30~12:00,,50,436
+112,Elective,BS605,1,Introduction to Brain Science,4 4,E.K.Kim J.I.Moon S.W.Yoo J.W.Ko B.C.Seo K.H.Kim J.W.Um Sung-Bae.Lee Y.S.Oh H.S.Lee H.K.Choi H.A.Chun W.K.Yu J.S.Seo M.I.Paik,60,Tue-9:30~11:30 Thr-9:30~11:30,,44,409
+113,Elective,BS607,1,Methods in Brain Science,4 4,Y.S.Oh I.S.Chang J.I.Moon S.W.Yoo E.K.Kim J.W.Ko Sung-Bae.Lee H.S.Lee H.K.Choi H.A.Chun W.K.Yu J.S.Seo M.I.Paik,60,Mon-9:30~11:30 Wed-9:30~11:30,,44,410
+114,Elective,BS732,1,Trends in Synapse Biology,6,J.W.Ko,0,Thr-15:00~18:00,,60,450
+115,Elective,NB520,1,Biology of Aging,3 3,Y.S.Lee H.R.Woo,11,Mon-15:00~16:30 Wed-15:00~16:30,,44,420
+116,Elective,NB523,1,Advanced Genetics and Genomics or Genetics and Genomics,3 3,P.O.Lim J.M.Lee,11,Mon-13:30~15:00 Wed-13:30~15:00,,45,421
+117,Elective,NB536,1,Bioinformatics,3 3,J.K.Kim,11,Mon-10:30~12:00 Wed-10:30~12:00,,45,422
+118,Elective,NB541,1,Emerging Biotechnology,3 3,Min-Suk.Kim,11,Tue-15:00~16:30 Thr-15:00~16:30,,45,423
+119,Elective,NB547,1,Protein metabolism and Disease,6,B.H.Lee,11,Mon-18:30~21:30,,45,424
+120,Elective,NB548,1,Metabolism and Physiology,3 3,J.M.Lee Y.S.Lee,11,Mon-10:30~12:00 Wed-10:30~12:00,,61,425
+121,Elective,NB549,1,Introduction to Biophotonics,6,J.C.Lee,11,Fri-13:00~16:00,,49,426
+122,Elective,NB552,1,Bio-spectroscopy,3 3,Jin-Hye.Kim,11,Tue-13:30~15:00 Thr-13:30~15:00,,49,437
+123,Elective,NB605,1,Medical Biology,3 3,K.M.Yeh,11,Mon-15:00~16:30 Wed-15:00~16:30,,45,427
+124,Elective,NB598,1,Practice in New Biology III. Proteomics,6,Min-Sik.Kim,2,Tue-17:30~22:00,,62,449
+125,Elective,NB607,1,Introduction of major diseases for biomedical scientists,3 3,Y.T.Jeong,15,Tue-15:00~16:30 Thr-15:00~16:30,,44,438
+126,Elective,NB513,1,Advanced Cell Biology,3 3,H.R.Woo P.O.Lim,11,Tue-10:30~12:00 Thr-10:30~12:00,,45,419
+127,Elective,CR536,1,Structural Biology,6 6,C.H.Lee W.K.Yu Jin-Hye.Kim Y.S.Lee,20,Mon-13:00~16:00 Wed-13:00~16:00,Wed-16:30~18:00,63 64,448
+128,Required,HL101,1,Comparative Historya,3 3,D.R.Kim,50,Mon-10:30~12:00 Thr-10:30~12:00 Mon-14:30~16:00 Thr-14:30~16:00,Wed-16:30~18:00,4 5 11 12 16 18,108
+129,Required,HL101,2,Comparative Historya,3 3,D.R.Kim,50,Mon-10:30~12:00 Thr-10:30~12:00 Mon-14:30~16:00 Thr-14:30~16:00,Wed-16:30~18:00,4 5 11 12 16 18,108
+130,Required,HL111a,1,Writing.Reading.Speaking,3 3,T.H.Lim,30,10:30~18:00,Fri- Wed-16:30~18:00,0 1 3 4 5 9 11 12 15,109
+131,Required,HL111a,2,Writing.Reading.Speaking,3 3,T.H.Lim,30,10:30~18:00,Fri- Wed-16:30~18:00,0 1 3 4 5 9 11 12 15,109
+132,Required,HL111a,3,Writing.Reading.Speaking,3 3,T.H.Lim,30,10:30~18:00,Fri- Wed-16:30~18:00,0 1 3 4 5 9 11 12 15,109
+133,Required,HL111a,4,Writing.Reading.Speaking,3 3,T.H.Lim,30,10:30~18:00,Fri- Wed-16:30~18:00,0 1 3 4 5 9 11 12 15,109
+134,Required,HL204,1,Philosophical Traditions in East and Westa,3 3,N.D.Kim,50,,Wed-16:30~18:00,4 5 11 12 16 18,214
+135,Required,HL204,2,Philosophical Traditions in East and Westa,3 3,N.D.Kim,10,,Wed-16:30~18:00,4 5 11 12 16 18,214
+136,Elective,HL323,1,Comparative Literature,6,J.Y.Lee,30,Thr-14:00~17:00,,0 1 3 4 5 9 11 12 15,322
+137,Elective,HL324,1,Understanding Novels,6,J.Y.Lee,30,Thr-9:30~12:30,,0 1 3 4 5 9 11 12 15,321
+138,Elective,HL331a,1,Critical Thinking and Writing,6,P.N.Kim ,30,Mon-19:00~22:00,,0 1 3 4 5 9 11 12 15,320
+139,Elective,HL322,1,Law and Society,3 3,H.Y.Yoon,30,Wed-14:30~16:00 Thr-10:30~12:00,,0 1 3 4 5 9 11 12 15,331
+140,Elective,HL330,1,Special Topics in Humanities and Social Sciences,6,D.R.Kim,30,Thr-19:00~22:00,Wed-16:30~18:00,0 1 3 4 5 9 11 12 15,317
+141,Elective,HL344,1,Special Topics in Humanities,6,Jae-Hun.Choi,30,Wed-18:00~21:00,,0 1 3 4 5 9 11 12 15,316
+142,Elective,HL336,1,Comparative Politics,3 3,J.S.Yoon,30,Mon-10:30~12:00 Wed-10:30~12:00,Wed-16:30~18:00,0 1 3 4 5 9 11 12 15,313
+143,Elective,HL346,1,Understanding Korean Society,6,J.G.Lee,30,Tue-14:30~17:30,,0 1 3 4 5 9 11 12 15,315
+144,Elective,HL326,1,Introduction to Economics,6,W.J.Kim,30,Tue-14:30~17:30,,0 1 3 4 5 9 11 12 15,314
+145,Elective,HL341,1,Communication and Modern Society,6,H.S.Kim,30,Thr-15:00~18:00,,0 1 3 4 5 9 11 12 15,332
+146,Elective,HL348,1,Great Books Colloquium,6,D.R.Kim J.A.Lee Joon-Suk.Lee T.H.Lim J.S.Yoon,30,Mon-19:00~22:00,Wed-16:30~18:00,4,319
+147,Elective,HL339,1,English for Literature,6,J.A.Lee,30,Tue-19:00~22:00 Thr-19:00~22:00,Wed-16:30~18:00,0 1 3 4 5 9 11 12 15,325
+148,Elective,HL327,1,Science and Technology in Modern Society,6,Joon-Suk.Lee,30,Wed-19:00~22:00,Wed-16:30~18:00,4,333
+149,Elective,HL328,1,Basic Issues in History of Science and Technology,6,Joon-Suk.Lee,30,Tue-19:00~22:00,Wed-16:30~18:00,4,323
+150,Elective,HL329,1,Issues in Philosophy of Science,6,Joon-Suk.Lee,30,Thr-19:00~22:00,Wed-16:30~18:00,4,324
+151,Elective,HL352,1,Law and Industry,6,J.J.Lee,30,Wed-9:00~18:00,,0 1 3 4 5 9 11 12 15,0
+152,Elective,HL349,1,Introduction to Sociology,6,J.G.Lee,30,Wed-09:00~12:00,,0 1 3 4 5 9 11 12 15,0
+153,Elective,HL353,1,Game Theory,6,W.J.Kim,30,Wed-09:00~12:00,,0 1 3 4 5 9 11 12 15,0
+154,Elective,HL350,1,Introduction to Management,6,J.I.Kim,30,Thr-14:30~17:30,,0 1 3 4 5 9 11 12 15,0
+155,Elective,HL351,1,High-technology marketing,6,J.I.Kim,30,Fri-9:00~12:00,,0 1 3 4 5 9 11 12 15,0
+156,Required,HL306,1,Entrepreneurship and Social Responsibilitya,6,J.W.Lim,100,,Wed-16:30~18:00,16 18,328
+157,Required,HL306,2,Entrepreneurship and Social Responsibilitya,6,J.W.Lim,100,,Wed-16:30~18:00,16 18,328
+158,Required,HL103,1,Music I: Classic Guitar,4,Jong-Ho.Park,12,Mon-16:00~18:00,,30 31 32 33,113
+159,Required,HL103,2,Music I: Classic Guitar,4,Jong-Ho.Park,12,Mon-18:30~20:30,,30 31 32 33,113
+160,Required,HL103,3,Music I: Classic Guitar,4,Jong-Ho.Park,12,Mon-20:30~22:30,,30 31 32 33,113
+161,Required,HL103,4,Music I: Violin,4,J.H.Cheong,10,Mon-16:00~18:00,,30 31 32 33,113
+162,Required,HL103,5,Music I: Violin(advanced),4,J.H.Cheong,10,Mon-18:30~20:30,,30 31 32 33,113
+163,Required,HL103,6,Music I: Cello,4,G.J.Jeong,8,Mon-16:00~18:00,,30 31 32 33,113
+164,Required,HL103,7,Music I: Ensemble,4,G.J.Jeong,10,Mon-18:30~20:30,,30 31 32 33,113
+165,Required,HL103,8,Music I: Clarinet,4,H.S.Na ,10,Mon-16:00~18:00,,30 31 32 33,113
+166,Required,HL103,9,Music I: Clarinet,4,H.S.Na ,10,Mon-18:30~20:30,,30 31 32 33,113
+167,Required,HL103,11,Music I: Piano,4,J.K.Song,10,Tue-16:00~18:00,,34,113
+168,Required,HL103,12,Music I: Piano,4,J.K.Song,10,Tue-18:30~20:30,,34,113
+169,Required,HL103,13,Music I: Piano 4-hands Ensemble,4,J.K.Song,10,Wed-10:00~12:00,,34,113
+170,Required,HL103,14,Music I: Violin,4,Kang-Won.Lee,10,Tue-18:30~20:30,,30 31 32 33,113
+171,Required,HL103,15,Music I: Violin,4,Kang-Won.Lee,10,Tue-20:30~22:30,,30 31 32 33,113
+172,Required,HL103,16,Music I: Chorus,4,J.S.Kim,25,Tue-16:00~18:00,,30,113
+173,Required,HL103,17,Music I: Chorus,4,J.S.Kim,25,Tue-18:30~20:30,,30,113
+174,Required,HL103,18,Music I: Chorus,4,J.S.Kim,10,Tue-20:30~22:30,,30 31 32 33,113
+175,Required,HL105,1,Physical Education I: Taekwondo,4,Ji-Hoon.Lee,27,Mon-16:30~18:30,,28 29,112
+176,Required,HL105,2,Physical Education I: Taekwondo,4,Y.H.Yoo,27,Mon-16:30~18:30,,28 29,112
+177,Required,HL105,3,Physical Education I: Taekwondo,4,Ji-Hoon.Lee,27,Mon-18:30~20:30,,28 29,112
+178,Required,HL105,4,Physical Education I: Taekwondo,4,Y.H.Yoo,27,Mon-18:30~20:30,,28 29,112
+179,Required,HL105,5,Physical Education I: Taekwondo,4,Ji-Hoon.Lee,27,Thr-16:30~18:30,,28 29,112
+180,Required,HL105,6,Physical Education I: Taekwondo,4,S.M.Kim,27,Thr-16:30~18:30,,28 29,112
+181,Required,HL105,7,Physical Education I: Taekwondo,4,Ji-Hoon.Lee,27,Thr-18:30~20:30,,28 29,112
+182,Required,HL105,8,Physical Education I: Taekwondo,4,S.M.Kim,27,Thr-18:30~20:30,,28 29,112
+183,Required,HL107,1,Communication Skills,4,Anna,25,,9:00~10:00 Tue-12:00~14:00,6 7 15,111
+184,Required,HL107,2,Communication Skills,4,Anna,25,,9:00~10:00 Tue-12:00~14:00,6 7 15,111
+185,Required,HL107,3,Communication Skills,4,Philip,25,,9:00~10:00 Tue-12:00~14:00,6 7 15,111
+186,Required,HL107,4,Communication Skills,4,Philip,25,,9:00~10:00 Tue-12:00~14:00,6 7 15,111
+187,Required,HL107,5,Communication Skills,4,Aaron,25,,9:00~10:00 Tue-12:00~14:00,6 7 15,111
+188,Required,HL107,6,Communication Skills,4,Aaron,25,,9:00~10:00 Tue-12:00~14:00,6 7 15,111
+189,Required,HL107,7,Communication Skills,4,Aaron,25,,9:00~10:00 Tue-12:00~14:00,6 7 15,111
+190,Required,HL107,8,Communication Skills,4,Unknown5,25,,9:00~10:00 Tue-12:00~14:00,6 7 15,111
+191,Required,HL107,9,Communication Skills,4,Unknown5,25,,9:00~10:00 Tue-12:00~14:00,6 7 15,111
+192,Required,HL203,1,English for Science Leaders I,4,Anna,25,,9:00~10:00 Mon-16:00~18:00 Tue-12:00~14:00 Wed-16:00~18:00,6 7 15,216
+193,Required,HL203,2,English for Science Leaders I,4,Anna,25,,9:00~10:00 Mon-16:00~18:00 Tue-12:00~14:00 Wed-16:00~18:00,6 7 15,216
+194,Required,HL203,3,English for Science Leaders I,4,Anna,25,,9:00~10:00 Mon-16:00~18:00 Tue-12:00~14:00 Wed-16:00~18:00,6 7 15,216
+195,Required,HL203,4,English for Science Leaders I,4,Philip,25,,9:00~10:00 Mon-16:00~18:00 Tue-12:00~14:00 Wed-16:00~18:00,6 7 15,216
+196,Required,HL203,5,English for Science Leaders I,4,Philip,25,,9:00~10:00 Mon-16:00~18:00 Tue-12:00~14:00 Wed-16:00~18:00,6 7 15,216
+197,Required,HL203,6,English for Science Leaders I,4,Philip,25,,9:00~10:00 Mon-16:00~18:00 Tue-12:00~14:00 Wed-16:00~18:00,6 7 15,216
+198,Required,HL203,7,English for Science Leaders I,4,Philip,25,,9:00~10:00 Mon-16:00~18:00 Tue-12:00~14:00 Wed-16:00~18:00,6 7 15,216
+199,Required,HL203,8,English for Science Leaders I,4,Aaron,25,,9:00~10:00 Mon-16:00~18:00 Tue-12:00~14:00 Wed-16:00~18:00,6 7 15,216
+200,Required,HL203,9,English for Science Leaders I,4,Aaron,25,,9:00~10:00 Mon-16:00~18:00 Tue-12:00~14:00 Wed-16:00~18:00,6 7 15,216
+201,Required,HL301,1,Scientific Writing,4,J.A.Lee,20,,9:00~10:00 Wed-16:30~18:00,6 7 15,326
+202,Required,HL301,2,Scientific Writing,4,Anna,20,,9:00~10:00,6 7 15,326
+203,Required,HL301,3,Scientific Writing,4,Aaron,20,,9:00~10:00,6 7 15,326
+204,Elective,HL270a,1,Seminar for Transdisiplinary Studies,4,G.Ogan,25,Mon-13:00~15:00,,,217
+205,Required,HL205,1,Leadership (Self Leadership and Team Leadership) I,4,J.S.Yoon,100,Mon-16:00~18:00,,14,215
+206,Required,HL205,2,Leadership (Self Leadership and Team Leadership) I,4,J.S.Yoon,100,Wed-16:00~18:00,,14,215
+207,Required,HL304,1,Global Leadership (Leadership Practice) I,4,H.S.Kim,30,Fri-10:00~12:00,,0 1 3 4 5 9 11 12 15,327
+208,Elective,HL479,1,Technology VenturesI,6,J.W.Lim,60,,Wed-16:30~18:00,4 5 11 12 16 18,408
 int,str,str,int,str,lint,lstr,int,lstr,lstr,lint,int
