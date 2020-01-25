@@ -148,8 +148,8 @@ with open("Data/" + yrsem + "/Results/data_" + yrsem + "_" + DateTime + ".json",
 
 print("...The dictionary of timetable is written to " + colored("data_" + yrsem + "_" + DateTime + ".json", 'blue') + "'\n")
 WriteData.ToCSV("Data/" + yrsem + "/Results/data_" + yrsem + "_" + DateTime + "_timetable.csv", crsDic, yrsem)
-WriteData.ByCourse("Data/" + yrsem + "/Results/data_" + yrsem + "_" + DateTime + "_course.csv", crsDic, yrsem)
-WriteData.ByInstructors("Data/" + yrsem + "/Results/data_" + yrsem + "_" + DateTime + "_instructors.txt", crsDic)
+# WriteData.ByCourse("Data/" + yrsem + "/Results/data_" + yrsem + "_" + DateTime + "_course.csv", crsDic, yrsem)
+# WriteData.ByInstructors("Data/" + yrsem + "/Results/data_" + yrsem + "_" + DateTime + "_instructors.txt", crsDic)
 
 
 

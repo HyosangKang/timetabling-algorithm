@@ -1,5 +1,4 @@
 import json
-from time import time, sleep, strftime
 
 def find_time(slot):
     if int(slot / 27) < 1:
@@ -22,7 +21,7 @@ def find_time(slot):
 
 def ToCSV(WRITE_FILE_NAME, TTdic, yrsem):
     ClsRm = []
-    with open("../Data/" + yrsem + "/ClassRoom.csv", 'r') as classroom_file:
+    with open("Data/" + yrsem + "/ClassRoom.csv", 'r') as classroom_file:
         lines = classroom_file.readlines()
         for line in lines[1:]:
             v = line.split(",")
@@ -30,7 +29,6 @@ def ToCSV(WRITE_FILE_NAME, TTdic, yrsem):
 
     TT = []
     for dic in TTdic:
-        dic['Roster'] = []
         tmp = [0 for _ in range(len(TTdic))]
         for j in dic['Timetable']:
             tmp[j] = 1
@@ -64,12 +62,17 @@ def ToCSV(WRITE_FILE_NAME, TTdic, yrsem):
                     if currList[i] != -1:
                         mloc = i + 1
                 tmp = find_time(j)
+                tmp += "~" + str(9 + int((j % 27) / 2)) + ":"
+                if (j % 27) % 2:
+                    tmp += "00"
+                else:
+                    tmp += "30"
                 for i1 in range(mloc):
                     if currList[i1] == -1:
                         tmp += ","
                     else:
                         tmp += "," + TTdic[currList[i1]]['CourseName'] + "(" + TTdic[currList[i1]]['ClassCode'] + ") " \
-                               + "Sect " + str(TTdic[currList[i1]]['Section']) + ClsRm[TTdic[currList[i1]]['Classroom']]
+                               + "Sect " + str(TTdic[currList[i1]]['Section']) + " " + ClsRm[TTdic[currList[i1]]['Classroom']]
                         for name in TTdic[currList[i1]]['Instructors']:
                             if name[0] not in "0123456789":
                                 tmp += " " + name
@@ -186,10 +189,10 @@ def ByInstructors(FILE_NAME_INST, TTdic):
                     File.write("\t" + crs['CourseName'] + str(crs['Section']) + "\n")
                     File.write("\t\t" + " " + Slot2Str(crs['Timetable']) + "\n")
 
-yrsem = "20Spring"
-FILE_NAME = "data_20Spring_20200124_1304"
-with open("../Data/20Spring/Results/" + FILE_NAME + ".json", 'r') as file:
-    TT = json.load(file)
-    ToCSV("../Data/" + yrsem + "/Results/" + FILE_NAME + "_timetable.csv", TT, yrsem)
+# yrsem = "20Spring"
+# FILE_NAME = "data_20Spring_20200124_1304"
+# with open("../Data/20Spring/Results/" + FILE_NAME + ".json", 'r') as file:
+#     TT = json.load(file)
+#     ToCSV("../Data/" + yrsem + "/Results/" + FILE_NAME + "_timetable.csv", TT, yrsem)
     # ByCourse("../Data/" + yrsem + "/Results/" + FILE_NAME + "_course.csv", TT, yrsem)
     # ByInstructors("../Data/" + yrsem + "/Results/" + FILE_NAME + "_instructors.txt", TT)

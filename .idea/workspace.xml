@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d35425dc-72dc-4d3a-ab7e-fa3e043f7da3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Data/20Spring/20SpringCourseList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/20Spring/20SpringCourseList.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/20SpringTimetableTemp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/20Spring/Results/20SpringTimetableTemp.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/20SpringTimetableTemp.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/20Spring/Results/20SpringTimetableTemp.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/CrsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/20Spring/Results/CrsData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/StdData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/20Spring/Results/StdData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/data_20Spring_20200124_1304_course.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/data_20Spring_20200124_1304_instructors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/data_20Spring_20200124_1304_timetable.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/20Spring/Results/data_20Spring_20200124_1304_timetable.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/WriteData.py" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WriteData.py" afterDir="false" />
     </list>
@@ -45,13 +49,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Source/WriteData.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1007">
-              <caret line="71" column="38" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
+            <state relative-caret-position="294">
+              <caret line="197" column="32" selection-start-line="197" selection-start-column="32" selection-end-line="197" selection-end-column="32" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
                 <element signature="e#6341#7070#0" />
                 <element signature="e#8206#8898#0" />
                 <element signature="e#8946#9551#0" />
@@ -60,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="94">
+              <caret line="141" column="17" selection-start-line="141" selection-start-column="17" selection-end-line="141" selection-end-column="17" />
               <folding>
                 <element signature="e#0#64#0" expanded="true" />
               </folding>
@@ -83,7 +86,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>instlst</find>
       <find>InstInfo</find>
       <find>InstDic</find>
       <find>ConflictPairsInst</find>
@@ -112,6 +114,8 @@
       <find>FastDel</find>
       <find>FilterPairs</find>
       <find>FindCode</find>
+      <find>Slot2Str</find>
+      <find>find</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -198,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.WriteData">
+  <component name="RunManager" selected="Python.HSmain">
     <configuration name="HSmain" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="timetabling-algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,8 +247,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.WriteData" />
         <item itemvalue="Python.HSmain" />
+        <item itemvalue="Python.WriteData" />
       </list>
     </recent_temporary>
   </component>
@@ -269,12 +273,12 @@
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.403709" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5007133" side_tool="true" weight="0.2754663" />
       <window_info anchor="bottom" id="Python Console" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32907802" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.2754663" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49928674" visible="true" weight="0.2754663" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -380,16 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#64#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Source/Assign.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -405,13 +399,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Source/WriteData.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1007">
-          <caret line="71" column="38" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
+        <state relative-caret-position="294">
+          <caret line="197" column="32" selection-start-line="197" selection-start-column="32" selection-end-line="197" selection-end-column="32" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
             <element signature="e#6341#7070#0" />
             <element signature="e#8206#8898#0" />
             <element signature="e#8946#9551#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="141" column="17" selection-start-line="141" selection-start-column="17" selection-end-line="141" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
           </folding>
         </state>
       </provider>
