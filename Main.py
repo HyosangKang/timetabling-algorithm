@@ -5,6 +5,7 @@ from random import shuffle
 from time import time, sleep, strftime
 from termcolor import colored
 
+yrsem = "20Spring"
 NUM_MIN = True              # 0 if no time straints
 SHORT_PRINT = True
 SHORT_MIN = 5
@@ -21,7 +22,6 @@ unavails += list(range(4 * 27 + 16, 5 * 27))  # No Friday afternoon
 """
 STAGE 1: DATA PREPARATION
 """
-yrsem = "20Spring"
 crsDic = ReadData.CourseInfo(yrsem, [], unavails)
 stdDic = ReadData.StudentInfo(crsDic, yrsem)
 stdDic, crsDic = Assign.OptimizeEnroll(stdDic, crsDic, yrsem)

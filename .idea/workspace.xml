@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d35425dc-72dc-4d3a-ab7e-fa3e043f7da3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/20SpringTimetableTemp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/20Spring/Results/20SpringTimetableTemp.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/20SpringTimetableTemp.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/20Spring/Results/20SpringTimetableTemp.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/CrsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/20Spring/Results/CrsData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/StdData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/20Spring/Results/StdData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/data_20Spring_20200124_1304_course.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/data_20Spring_20200124_1304_instructors.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/data_20Spring_20200124_1304_timetable.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/20Spring/Results/data_20Spring_20200124_1304_timetable.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/WriteData.py" beforeDir="false" afterPath="$PROJECT_DIR$/Source/WriteData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,17 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Source/ReadData.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
               <caret line="87" column="17" selection-start-line="53" selection-start-column="47" selection-end-line="87" selection-end-column="17" />
-              <folding>
-                <element signature="e#306#1778#0" />
-                <element signature="e#1999#3501#0" />
-                <element signature="e#3540#4690#0" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -41,9 +30,6 @@
               <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
-                <element signature="e#753#864#0" />
-                <element signature="e#900#1352#0" />
-                <element signature="e#1377#1590#0" />
               </folding>
             </state>
           </provider>
@@ -52,25 +38,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Source/WriteData.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
+            <state relative-caret-position="534">
               <caret line="197" column="32" selection-start-line="197" selection-start-column="32" selection-end-line="197" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
-                <element signature="e#6341#7070#0" />
-                <element signature="e#8206#8898#0" />
-                <element signature="e#8946#9551#0" />
+                <element signature="e#0#64#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="141" column="17" selection-start-line="141" selection-start-column="17" selection-end-line="141" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#64#0" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1064">
+                <caret line="30" column="117" lean-forward="true" selection-start-line="30" selection-start-column="117" selection-end-line="30" selection-end-column="117" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -133,22 +126,22 @@
         <option value="$PROJECT_DIR$/Data/20Spring/wr.py" />
         <option value="$PROJECT_DIR$/Source/ReadData.py" />
         <option value="$PROJECT_DIR$/Source/Addon.py" />
-        <option value="$PROJECT_DIR$/Main.py" />
         <option value="$PROJECT_DIR$/Source/WriteData.py" />
+        <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="28" />
-    <option name="width" value="1799" />
-    <option name="height" value="1038" />
+    <option name="x" value="27" />
+    <option name="width" value="1800" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,30 +149,16 @@
               <item name="timetabling-algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="timetabling-algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="timetabling-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="timetabling-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="timetabling-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="timetabling-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
-              <item name="20Spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="timetabling-algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="timetabling-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Source" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../timetabling" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -266,11 +245,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="23" y="0" width="1439" height="830" extended-state="0" />
+    <frame x="22" y="0" width="1440" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.403709" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.40342125" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5007133" side_tool="true" weight="0.2754663" />
@@ -299,16 +278,6 @@
     <entry file="file://$PROJECT_DIR$/CrsData.json" />
     <entry file="file://$PROJECT_DIR$/StdData.json" />
     <entry file="file://$PROJECT_DIR$/Source/Main.py" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="2" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Source/CheckData.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -345,38 +314,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/20Spring/20SpringCourseList_backup.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inst.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/20Spring/wr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ename.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="181" column="47" lean-forward="true" selection-start-line="181" selection-start-column="47" selection-end-line="181" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/ReadData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="87" column="17" selection-start-line="53" selection-start-column="47" selection-end-line="87" selection-end-column="17" />
-          <folding>
-            <element signature="e#306#1778#0" />
-            <element signature="e#1999#3501#0" />
-            <element signature="e#3540#4690#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/20Spring/20SpringCourseList_backup.csv" />
+    <entry file="file://$PROJECT_DIR$/inst.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/20Spring/wr.py" />
+    <entry file="file://$PROJECT_DIR$/ename.csv" />
     <entry file="file://$PROJECT_DIR$/Source/Addon.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -390,32 +331,41 @@
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#753#864#0" />
-            <element signature="e#900#1352#0" />
-            <element signature="e#1377#1590#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Source/WriteData.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="534">
           <caret line="197" column="32" selection-start-line="197" selection-start-column="32" selection-end-line="197" selection-end-column="32" />
-          <folding>
-            <element signature="e#6341#7070#0" />
-            <element signature="e#8206#8898#0" />
-            <element signature="e#8946#9551#0" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/ReadData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="87" column="17" selection-start-line="53" selection-start-column="47" selection-end-line="87" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="141" column="17" selection-start-line="141" selection-start-column="17" selection-end-line="141" selection-end-column="17" />
+        <state relative-caret-position="190">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="e#0#64#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1064">
+            <caret line="30" column="117" lean-forward="true" selection-start-line="30" selection-start-column="117" selection-end-line="30" selection-end-column="117" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
