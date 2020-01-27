@@ -1,10 +1,11 @@
 # timetabling-algorithm
 
+* &copy;2020 Hyosang Kang All Rights Reserved.
 * Jan 26, 2020 Update: Initial commit. All data were converted to English (from Korean). Currently  data for 2020 Spring semester is available only. More data (since 19 Spring) will be updated.
 
 ## Introduction
 
-* This is an automated timetabling algorithm developed by [Hyosang Kang](https://klein.dgist.ac.kr). The source code is written by Python3. &copy;2020 Hyosang Kang All Rights Reserved.
+* This is an automated timetabling algorithm developed by [Hyosang Kang](https://klein.dgist.ac.kr). The source code is written by Python3. 
 * The data is used for Daegu-Gyeongbuk Institute of Science and Technology(DGIST) undergraduate study. 
 
 
