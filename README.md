@@ -6,8 +6,13 @@
 ## Introduction
 
 * This is an automated timetabling algorithm developed by [Hyosang Kang](https://klein.dgist.ac.kr). The source code is written by Python3. 
-* The data is used for Daegu-Gyeongbuk Institute of Science and Technology(DGIST) undergraduate study. 
+* The data is used for Daegu-Gyeongbuk Institute of Science and Technology(DGIST) undergraduate study. Raw data is available at DGIST website.
 
+## Output
+
+* The result of timetabling is stored at ```./Data/[yrsem]/Results/```. 
+* The file ```data_[yrsem]_[Data_Time].json``` contains the dictionary of course data.
+* The file ```data_[yrsem]_[Data_Time]_timetable.csv``` is the actual result of timetabling written in a csv format. 
 
 ## How to execute the code
 
@@ -25,8 +30,3 @@
     * ```SHORT_PRINT``` determines the output format which indicates the progress of algorithm. IF ```SHORT_PRINT``` is False, then it prints a line which indicates which course has been tried to be timetabled at which location. If ```SHORT_PRINT``` is True, then it prints a number of courses whose timetabling has been succeed only when such number reached at the new maximum.
     * ```SHORT_MIN, NUM_DEL, THRESHOLD``` are variables used for removing most-conflicted pairs. For example, if ```SHORT_MIN``` is 5, and the algorithm fails to update a new maximal number of courses timetabled successfully for 5 minutes, then it removes top ```NUM_DEL``` pairs which conflicted the most during the timetabling. Each conflict pair should be conflicted at least ```THRESHOLD``` times If there were no pairs which conflicted ```THRESHOD``` times, then the threshold is reduced by 9/10 until it finds any pair satisfying the condition. If threshold is less than 10, then the algorithm resumes without any removal of pairs.   
 
-## Output
-
-* The result of timetabling is stored at ```./Data/[yrsem]/Results/```. 
-* The file ```data_[yrsem]_[Data_Time].json``` contains the dictionary of course data.
-* The file ```data_[yrsem]_[Data_Time]_timetable.csv``` is the actual result of timetabling written in a csv format. 

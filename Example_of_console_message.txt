@@ -1,0 +1,194 @@
+/usr/local/bin/python3.6 /Users/hyosang/Documents/GitHub/timetabling-algorithm/Main.py
+Load from existing data ...
+loop count : 1, Number of conflicting pairs: 2539 ... Done
+Finding conflict pairs by instructors... 227 pairs found
+Finding conflict pairs by students... 1950 pairs found
+Merge and remove duplicates...  13 pairs removed, 2164 pairs left
+Final conflicting pairs...(227,1937)
+Starting from 0/209. (0% completed) .
+Inserted up to 44/209. (21% completed) 0(sec)
+Inserted up to 50/209. (23% completed) 0(sec)
+Inserted up to 59/209. (28% completed) 0(sec)
+Inserted up to 69/209. (33% completed) 3(sec) .
+Inserted up to 82/209. (39% completed) 6(sec) .
+Inserted up to 89/209. (42% completed) 8(sec) .
+Inserted up to 111/209. (53% completed) 10(sec) .....
+Inserted up to 114/209. (54% completed) 28(sec) ..
+Inserted up to 115/209. (55% completed) 36(sec) .......
+Inserted up to 118/209. (56% completed) 64(sec) ..................................
+Inserted up to 127/209. (60% completed) 324(sec)
+Inserted up to 129/209. (61% completed) 325(sec)
+Inserted up to 131/209. (62% completed) 327(sec) .....
+Inserted up to 132/209. (63% completed) 344(sec)
+Inserted up to 136/209. (65% completed) 346(sec) .
+Inserted up to 146/209. (69% completed) 346(sec) ...........................
+Initializing... 0 conflicting pairs removed.
+...threshold reduced to 90... 0 conflicting pairs removed.
+...threshold reduced to 81... 0 conflicting pairs removed.
+...threshold reduced to 72... 0 conflicting pairs removed.
+...threshold reduced to 64... 0 conflicting pairs removed.
+...threshold reduced to 57... 0 conflicting pairs removed.
+...threshold reduced to 51... 0 conflicting pairs removed.
+...threshold reduced to 45... 0 conflicting pairs removed.
+...threshold reduced to 40... 0 conflicting pairs removed.
+...threshold reduced to 36... 0 conflicting pairs removed.
+...threshold reduced to 32... 0 conflicting pairs removed.
+...threshold reduced to 28... 0 conflicting pairs removed.
+...threshold reduced to 25... 0 conflicting pairs removed.
+...threshold reduced to 22... 0 conflicting pairs removed.
+...threshold reduced to 19... 0 conflicting pairs removed.
+...threshold reduced to 17... 0 conflicting pairs removed.
+...threshold reduced to 15... 0 conflicting pairs removed.
+...threshold reduced to 13... 0 conflicting pairs removed.
+...threshold reduced to 11... 0 conflicting pairs removed.
+...threshold reduced to 9...  Threshold too low...Continue
+(2164 pairs left)
+Re-starting at 146/209. (49% completed) .......
+Initializing... 0 conflicting pairs removed.
+...threshold reduced to 90... 0 conflicting pairs removed.
+...threshold reduced to 81... 0 conflicting pairs removed.
+...threshold reduced to 72... 0 conflicting pairs removed.
+...threshold reduced to 64... 0 conflicting pairs removed.
+...threshold reduced to 57... 0 conflicting pairs removed.
+...threshold reduced to 51... 0 conflicting pairs removed.
+...threshold reduced to 45... 0 conflicting pairs removed.
+...threshold reduced to 40... 0 conflicting pairs removed.
+...threshold reduced to 36... 0 conflicting pairs removed.
+...threshold reduced to 32... 0 conflicting pairs removed.
+...threshold reduced to 28... 0 conflicting pairs removed.
+...threshold reduced to 25... 0 conflicting pairs removed.
+...threshold reduced to 22... 0 conflicting pairs removed.
+...threshold reduced to 19... 0 conflicting pairs removed.
+...threshold reduced to 17... 0 conflicting pairs removed.
+...threshold reduced to 15... 0 conflicting pairs removed.
+...threshold reduced to 13... 0 conflicting pairs removed.
+...threshold reduced to 11... 0 conflicting pairs removed.
+...threshold reduced to 9...  Threshold too low...Continue
+(2164 pairs left)
+Re-starting at 146/209. (43% completed) ....
+Initializing... 0 conflicting pairs removed.
+...threshold reduced to 90... 0 conflicting pairs removed.
+...threshold reduced to 81... 0 conflicting pairs removed.
+...threshold reduced to 72... 0 conflicting pairs removed.
+...threshold reduced to 64... 0 conflicting pairs removed.
+...threshold reduced to 57... 0 conflicting pairs removed.
+...threshold reduced to 51... 0 conflicting pairs removed.
+...threshold reduced to 45... 0 conflicting pairs removed.
+...threshold reduced to 40... 0 conflicting pairs removed.
+...threshold reduced to 36... 0 conflicting pairs removed.
+...threshold reduced to 32... 0 conflicting pairs removed.
+...threshold reduced to 28... 0 conflicting pairs removed.
+...threshold reduced to 25... 0 conflicting pairs removed.
+...threshold reduced to 22... 0 conflicting pairs removed.
+...threshold reduced to 19... 0 conflicting pairs removed.
+...threshold reduced to 17... 0 conflicting pairs removed.
+...threshold reduced to 15... 0 conflicting pairs removed.
+...threshold reduced to 13... 0 conflicting pairs removed.
+...threshold reduced to 11... 0 conflicting pairs removed.
+...threshold reduced to 9...  Threshold too low...Continue
+(2164 pairs left)
+Re-starting at 146/209. (38% completed)
+Inserted up to 150/209. (71% completed) 1102(sec) .
+Inserted up to 151/209. (72% completed) 1104(sec) .....
+Inserted up to 154/209. (73% completed) 1124(sec) .
+Inserted up to 156/209. (74% completed) 1127(sec) .
+Inserted up to 159/209. (76% completed) 1129(sec) ..................
+Inserted up to 161/209. (77% completed) 1236(sec) ............
+Inserted up to 167/209. (79% completed) 1282(sec) .....
+Inserted up to 173/209. (82% completed) 1299(sec) .........
+Inserted up to 175/209. (83% completed) 1337(sec) ..............................................................
+Initializing... 0 conflicting pairs removed.
+...threshold reduced to 90... 0 conflicting pairs removed.
+...threshold reduced to 81... 0 conflicting pairs removed.
+...threshold reduced to 72... 0 conflicting pairs removed.
+...threshold reduced to 64... 0 conflicting pairs removed.
+...threshold reduced to 57... 0 conflicting pairs removed.
+...threshold reduced to 51... 0 conflicting pairs removed.
+...threshold reduced to 45... 0 conflicting pairs removed.
+...threshold reduced to 40... 0 conflicting pairs removed.
+...threshold reduced to 36... 0 conflicting pairs removed.
+...threshold reduced to 32... 0 conflicting pairs removed.
+...threshold reduced to 28... 0 conflicting pairs removed.
+...threshold reduced to 25... 0 conflicting pairs removed.
+...threshold reduced to 22... 0 conflicting pairs removed.
+...threshold reduced to 19... 0 conflicting pairs removed.
+...threshold reduced to 17... 0 conflicting pairs removed.
+...threshold reduced to 15... 0 conflicting pairs removed.
+...threshold reduced to 13... 0 conflicting pairs removed.
+...threshold reduced to 11... 0 conflicting pairs removed.
+...threshold reduced to 9...  Threshold too low...Continue
+(2164 pairs left)
+Re-starting at 175/209. (61% completed) ..............
+Inserted up to 178/209. (85% completed) 1699(sec) .............
+Initializing... 0 conflicting pairs removed.
+...threshold reduced to 90... 0 conflicting pairs removed.
+...threshold reduced to 81... 0 conflicting pairs removed.
+...threshold reduced to 72... 0 conflicting pairs removed.
+...threshold reduced to 64... 0 conflicting pairs removed.
+...threshold reduced to 57... 0 conflicting pairs removed.
+...threshold reduced to 51... 0 conflicting pairs removed.
+...threshold reduced to 45... 0 conflicting pairs removed.
+...threshold reduced to 40... 0 conflicting pairs removed.
+...threshold reduced to 36... 0 conflicting pairs removed.
+...threshold reduced to 32... 0 conflicting pairs removed.
+...threshold reduced to 28... 0 conflicting pairs removed.
+...threshold reduced to 25... 0 conflicting pairs removed.
+...threshold reduced to 22... 0 conflicting pairs removed.
+...threshold reduced to 19... 0 conflicting pairs removed.
+...threshold reduced to 17... 0 conflicting pairs removed.
+...threshold reduced to 15... 0 conflicting pairs removed.
+...threshold reduced to 13... 0 conflicting pairs removed.
+...threshold reduced to 11... 0 conflicting pairs removed.
+...threshold reduced to 9...  Threshold too low...Continue
+(2164 pairs left)
+Re-starting at 178/209. (43% completed) .......
+Initializing... 0 conflicting pairs removed.
+...threshold reduced to 90... 0 conflicting pairs removed.
+...threshold reduced to 81... 0 conflicting pairs removed.
+...threshold reduced to 72... 0 conflicting pairs removed.
+...threshold reduced to 64... 0 conflicting pairs removed.
+...threshold reduced to 57... 0 conflicting pairs removed.
+...threshold reduced to 51... 0 conflicting pairs removed.
+...threshold reduced to 45... 0 conflicting pairs removed.
+...threshold reduced to 40... 0 conflicting pairs removed.
+...threshold reduced to 36... 0 conflicting pairs removed.
+...threshold reduced to 32... 0 conflicting pairs removed.
+...threshold reduced to 28... 0 conflicting pairs removed.
+...threshold reduced to 25... 0 conflicting pairs removed.
+...threshold reduced to 22... 0 conflicting pairs removed.
+...threshold reduced to 19... 0 conflicting pairs removed.
+...threshold reduced to 17... 0 conflicting pairs removed.
+...threshold reduced to 15... 0 conflicting pairs removed.
+...threshold reduced to 13... 0 conflicting pairs removed.
+...threshold reduced to 11... 0 conflicting pairs removed.
+...threshold reduced to 9...  Threshold too low...Continue
+(2164 pairs left)
+
+(TRUNCATED)
+
+Re-starting at 205/209. (22% completed) ......................................
+Initializing... 0 conflicting pairs removed.
+...threshold reduced to 90... 0 conflicting pairs removed.
+...threshold reduced to 81... 0 conflicting pairs removed.
+...threshold reduced to 72... 0 conflicting pairs removed.
+...threshold reduced to 64... 0 conflicting pairs removed.
+...threshold reduced to 57... 0 conflicting pairs removed.
+...threshold reduced to 51... 0 conflicting pairs removed.
+...threshold reduced to 45... 0 conflicting pairs removed.
+...threshold reduced to 40... 0 conflicting pairs removed.
+...threshold reduced to 36... 0 conflicting pairs removed.
+...threshold reduced to 32... 0 conflicting pairs removed.
+...threshold reduced to 28... 0 conflicting pairs removed.
+...threshold reduced to 25... 0 conflicting pairs removed.
+...threshold reduced to 22... 0 conflicting pairs removed.
+...threshold reduced to 19... 0 conflicting pairs removed.
+...threshold reduced to 17... 0 conflicting pairs removed.
+...threshold reduced to 15... 0 conflicting pairs removed.
+...threshold reduced to 13... 0 conflicting pairs removed.
+...threshold reduced to 11... 0 conflicting pairs removed.
+...threshold reduced to 9...  Threshold too low...Continue
+(2152 pairs left)
+Re-starting at 205/209. (29% completed) ..........The dictionary of timetable is written to data_20Spring_20200127_1529.json'
+
+
+Process finished with exit code 0
