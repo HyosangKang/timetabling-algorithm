@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d35425dc-72dc-4d3a-ab7e-fa3e043f7da3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Example_of_console_message.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/timetabling-algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/timetabling-algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/20Spring/20SpringCourseList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/20Spring/20SpringCourseList.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/20SpringTimetableTemp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/20Spring/Results/20SpringTimetableTemp.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/20Spring/Results/20SpringTimetableTemp.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/20Spring/Results/20SpringTimetableTemp.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,8 +67,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="300">
-                <caret line="14" column="117" lean-forward="true" selection-start-line="14" selection-start-column="117" selection-end-line="14" selection-end-column="117" />
+              <first_editor relative-caret-position="1005">
+                <caret line="31" column="158" selection-start-line="31" selection-start-column="158" selection-end-line="31" selection-end-column="158" />
               </first_editor>
               <second_editor />
             </state>
@@ -283,9 +276,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.40270054" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.40190628" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50119144" side_tool="true" weight="0.27445257" />
@@ -417,8 +411,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="14" column="117" lean-forward="true" selection-start-line="14" selection-start-column="117" selection-end-line="14" selection-end-column="117" />
+          <first_editor relative-caret-position="1005">
+            <caret line="31" column="158" selection-start-line="31" selection-start-column="158" selection-end-line="31" selection-end-column="158" />
           </first_editor>
           <second_editor />
         </state>
